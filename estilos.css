@@ -1,0 +1,143 @@
+body {
+    background-color: #f4f4f9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+    color: #333;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 0;
+}
+
+.contenedor-cronologia {
+    position: relative;
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.contenedor-cronologia::after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    background-color: #333;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    margin-left: -3px;
+}
+
+.tarjeta {
+    padding: 10px 40px;
+    position: relative;
+    background-color: inherit;
+    width: 50%;
+    box-sizing: border-box;
+}
+
+.tarjeta::after {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    right: -10px;
+    background-color: white;
+    border: 4px solid #FF9F55;
+    top: 15px;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+.izquierda {
+    left: 0;
+}
+
+.derecha {
+    left: 50%;
+}
+
+.derecha::after {
+    left: -10px;
+}
+
+.contenido {
+    padding: 20px;
+    background-color: white;
+    position: relative;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.etiqueta-fecha {
+    background-color: #333;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 0.85em;
+}
+
+h2 {
+    margin-top: 0;
+    color: #2c3e50;
+}
+
+.lugares {
+    font-style: italic;
+    color: #666;
+    font-size: 0.9em;
+    margin-bottom: 10px;
+    display: block;
+}
+
+p {
+    line-height: 1.6;
+    color: #444;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;/**/
+    margin-top: 40px;
+}
+
+footer a {
+    color: #009dff;
+    text-decoration: none;
+}
+
+/* Esta es la regla nueva que asegura que el texto sea naranja */
+footer p {
+    color: #d8d8d8; 
+    margin: 0;
+}
+
+@media screen and (max-width: 600px) {
+    .contenedor-cronologia::after {
+        left: 31px;
+    }
+
+    .tarjeta {
+        width: 100%;
+        padding-left: 70px;
+        padding-right: 25px;
+    }
+
+    .tarjeta::after {
+        left: 21px;
+    }
+
+    .derecha {
+        left: 0%;
+    }
+}
