@@ -90,16 +90,6 @@ const datos = [
         "resumen": "Anaxágoras fue un matemático griego conocido por ser el primero en introducir la filosofía a los atenienses. Fue encarcelado por afirmar que el Sol no era un dios y que la Luna reflejaba la luz del Sol."
     },
     {
-        "nombre": "Ahmes",
-        "fecha_nacimiento": 1680,
-        "era_nacimiento": "a. C.",
-        "fecha_fallecimiento": 1620,
-        "era_fallecimiento": "a. C.",
-        "lugar_nacimiento": "Egipto",
-        "lugar_fallecimiento": "Egipto",
-        "resumen": "Ahmes fue el escriba egipcio que redactó el Papiro Rhind, uno de los documentos matemáticos más antiguos que se conocen."
-    },
-    {
         "nombre": "Empédocles de Acragas",
         "fecha_nacimiento": 492,
         "era_nacimiento": "a. C.",
@@ -218,5 +208,115 @@ const datos = [
         "lugar_nacimiento": "Atenas, Grecia",
         "lugar_fallecimiento": "Atenas, Grecia",
         "resumen": "Platón es uno de los filósofos griegos más importantes. Fundó la Academia en Atenas. Sus obras sobre filosofía, política y matemáticas fueron muy influyentes y sentaron las bases para el enfoque sistemático de Euclides hacia las matemáticas."
+    },
+    {
+        "nombre": "Teeteto de Atenas",
+        "fecha_nacimiento": 417,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 369,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Atenas, Grecia",
+        "lugar_fallecimiento": "Atenas, Grecia",
+        "resumen": "Teeteto fue un matemático griego que realizó contribuciones muy importantes a la teoría de los irracionales. Su trabajo se describe en los Elementos de Euclides."
+    },
+    {
+        "nombre": "Eudoxo de Cnido",
+        "fecha_nacimiento": 408,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 355,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Cnido, Asia Menor (actual Knidos, Turquía)",
+        "lugar_fallecimiento": "Cnido, Asia Menor (actual Turquía)",
+        "resumen": "Eudoxo fue un matemático y astrónomo griego que contribuyó a los Elementos de Euclides. Cartografió las estrellas y compiló un mapa del mundo conocido. Su filosofía influyó en Aristóteles."
+    },
+    {
+        "nombre": "Gan De",
+        "fecha_nacimiento": 400,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 340,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "China",
+        "lugar_fallecimiento": "China",
+        "resumen": "Gan De fue uno de los primeros astrónomos chinos."
+    },
+    {
+        "nombre": "Timáridas de Paros",
+        "fecha_nacimiento": 400,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 350,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Paros, Grecia",
+        "lugar_fallecimiento": "",
+        "resumen": "Timáridas fue un seguidor griego de Pitágoras que escribió sobre números primos y dio métodos para resolver ecuaciones lineales simultáneas."
+    },
+    {
+        "nombre": "Jenócrates de Calcedonia",
+        "fecha_nacimiento": 396,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 314,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Calcedonia (actual Kadiköy, cerca de Estambul), Bitinia (actual Turquía)",
+        "lugar_fallecimiento": "Atenas, Grecia",
+        "resumen": "Jenócrates fue un estudiante de Platón que llegó a ser director de la Academia. Fue un creyente temprano de la teoría atómica y originó la distinción clásica entre mente, cuerpo y alma."
+    },
+    {
+        "nombre": "Dinóstrato",
+        "fecha_nacimiento": 390,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 320,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Grecia",
+        "lugar_fallecimiento": "",
+        "resumen": "Dinóstrato fue un matemático griego que pudo haber usado la cuadratriz de Hipias para resolver el problema de la cuadratura del círculo."
+    },
+    {
+        "nombre": "Heráclides del Ponto",
+        "fecha_nacimiento": 387,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 312,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Heraclea Póntica (actual Eregli, Turquía)",
+        "lugar_fallecimiento": "Heraclea Póntica",
+        "resumen": "Heráclides fue un astrónomo griego que propuso que la tierra gira sobre su eje una vez al día y que pudo haber creído que el sol era el centro del sistema solar."
+    },
+    {
+        "nombre": "Aristóteles",
+        "fecha_nacimiento": 384,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 322,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Estagira, Macedonia, Grecia",
+        "lugar_fallecimiento": "Calcis, Eubea, Grecia",
+        "resumen": "Aristóteles fue un filósofo griego que hizo contribuciones importantes al sistematizar la lógica deductiva y escribió sobre temas físicos. Su filosofía tuvo una influencia duradera en el desarrollo de todas las teorías filosóficas occidentales."
+    },
+    {
+        "nombre": "Menechmo",
+        "fecha_nacimiento": 380,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 320,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Alopeconnesus, Asia Menor (actual Turquía)",
+        "lugar_fallecimiento": "",
+        "resumen": "Menechmo fue un matemático griego que tutoró a Alejandro Magno en la materia. Fue el primero en investigar la elipse, parábola e hipérbola como secciones de un cono."
+    },
+    {
+        "nombre": "Aristeo el Viejo",
+        "fecha_nacimiento": 370,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 300,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Grecia",
+        "lugar_fallecimiento": "",
+        "resumen": "Aristeo el Viejo fue un matemático griego que trabajó en las secciones cónicas."
+    },
+    {
+        "nombre": "Calipo de Cízico",
+        "fecha_nacimiento": 370,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 310,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Cízico, Asia Menor (actual Turquía)",
+        "lugar_fallecimiento": "",
+        "resumen": "Calipo fue un astrónomo griego que hizo determinaciones precisas de la duración de las estaciones y construyó un calendario utilizado por todos los astrónomos posteriores."
     }
 ];
