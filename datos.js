@@ -438,5 +438,125 @@ const datos = [
         "lugar_nacimiento": "Caunus, Caria, Asia Menor (actual Turquía)",
         "lugar_fallecimiento": "",
         "resumen": "Dionysodorus fue un matemático griego que resolvió una ecuación cúbica usando la intersección de una parábola y una hipérbola."
+    },
+    {
+        "nombre": "Autólico de Pitane",
+        "fecha_nacimiento": 360,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 290,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Pitane, Asia Menor (actual Turquía)",
+        "lugar_fallecimiento": "Desconocido",
+        "resumen": "Autólico fue un astrónomo y matemático griego que escribió sobre la geometría de la esfera."
+    },
+    {
+        "nombre": "Eudemo de Rodas",
+        "fecha_nacimiento": 350,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 290,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Rodas, Grecia",
+        "lugar_fallecimiento": "Desconocido",
+        "resumen": "Eudemo fue un griego que fue el primer historiador importante de las matemáticas."
+    },
+    {
+        "nombre": "Euclides de Alejandría",
+        "fecha_nacimiento": 325,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 265,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Alejandría, Egipto",
+        "lugar_fallecimiento": "Alejandría, Egipto",
+        "resumen": "Euclides fue un matemático griego conocido principalmente por su tratado de geometría: Los Elementos. Esto influyó en el desarrollo de las matemáticas occidentales durante más de 2000 años."
+    },
+    {
+        "nombre": "Aristarco de Samos",
+        "fecha_nacimiento": 310,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 230,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Samos, Grecia",
+        "lugar_fallecimiento": "Grecia",
+        "resumen": "Aristarco fue un matemático y astrónomo griego que es celebrado como el exponente de un universo centrado en el Sol y por su intento pionero de determinar los tamaños y distancias del Sol y la Luna."
+    },
+    {
+        "nombre": "Arquímedes de Siracusa",
+        "fecha_nacimiento": 287,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 212,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Siracusa, Sicilia (actual Italia)",
+        "lugar_fallecimiento": "Siracusa, Sicilia (actual Italia)",
+        "resumen": "Arquímedes fue el matemático más grande de su época. Sus contribuciones en geometría revolucionaron la materia y sus métodos anticiparon el cálculo integral. Fue un hombre práctico que inventó una amplia variedad de máquinas, incluyendo poleas y el tornillo de Arquímedes para bombear agua."
+    },
+    {
+        "nombre": "Crisipo de Soli",
+        "fecha_nacimiento": 280,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 206,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Soli, Cilicia, Asia Menor (actual Turquía)",
+        "lugar_fallecimiento": "Atenas, Grecia",
+        "resumen": "Crisipo fue un filósofo griego que es considerado el cofundador del estoicismo."
+    },
+    {
+        "nombre": "Conón de Samos",
+        "fecha_nacimiento": 280,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 220,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Samos, Grecia",
+        "lugar_fallecimiento": "Alejandría, Egipto",
+        "resumen": "Conón de Samos fue un astrónomo y matemático griego que descubrió la curva ahora conocida como espiral de Arquímedes."
+    },
+    {
+        "nombre": "Nicomedes",
+        "fecha_nacimiento": 280,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 210,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Grecia",
+        "lugar_fallecimiento": "Desconocido",
+        "resumen": "Nicomedes fue un matemático griego famoso por su tratado Sobre las líneas concoides que contiene su descubrimiento de la curva concoide que utilizó para resolver varios problemas matemáticos, incluida la trisección de ángulos."
+    },
+    {
+        "nombre": "Filón de Bizancio",
+        "fecha_nacimiento": 280,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 220,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Bizancio (Turquía)",
+        "lugar_fallecimiento": "Desconocido",
+        "resumen": "Filón fue un griego que escribió sobre varios aspectos de la mecánica y trabajó en el problema de la duplicación del cubo."
+    },
+    {
+        "nombre": "Eratóstenes de Cirene",
+        "fecha_nacimiento": 276,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 194,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Cirene, África del Norte (actual Libia)",
+        "lugar_fallecimiento": "Alejandría, Egipto",
+        "resumen": "Eratóstenes fue un matemático griego famoso por su trabajo sobre los números primos y por medir el diámetro de la Tierra."
+    },
+    {
+        "nombre": "Apolonio de Perge",
+        "fecha_nacimiento": 262,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 190,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Perge, Panfilia, Jonia griega (actual Turquía)",
+        "lugar_fallecimiento": "Alejandría, Egipto",
+        "resumen": "Apolonio fue un matemático griego conocido como 'El Gran Geómetra'. Sus obras tuvieron una gran influencia en el desarrollo de las matemáticas y su famoso libro Cónicas introdujo los términos parábola, elipse e hipérbola."
+    },
+    {
+        "nombre": "Dionisodoro",
+        "fecha_nacimiento": 250,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 190,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Cauno, Caria, Asia Menor (actual Turquía)",
+        "lugar_fallecimiento": "Desconocido",
+        "resumen": "Dionisodoro fue un matemático griego que resolvió una ecuación cúbica utilizando la intersección de una parábola y una hipérbola."
     }
 ];
