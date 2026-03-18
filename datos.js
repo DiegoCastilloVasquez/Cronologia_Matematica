@@ -438,5 +438,125 @@ const datos = [
         "lugar_nacimiento": "Cauno, Caria, Asia Menor (actual Turquía)",
         "lugar_fallecimiento": "Desconocido",
         "resumen": "Dionisodoro fue un matemático griego que resolvió una ecuación cúbica utilizando la intersección de una parábola y una hipérbola."
+    },
+    {
+        "nombre": "Diocles",
+        "fecha_nacimiento": 240,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 180,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Grecia",
+        "lugar_fallecimiento": "Grecia",
+        "resumen": "Diocles fue un matemático griego que fue el primero en demostrar la propiedad focal de un espejo parabólico y estudió la curva cisoidal como parte de un intento de duplicar el cubo."
+    },
+    {
+        "nombre": "Katyayana",
+        "fecha_nacimiento": 200,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 200,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "India",
+        "lugar_fallecimiento": "India",
+        "resumen": "Katyayana fue el autor de uno de los Sulbasutras: documentos que contienen algunas de las primeras matemáticas indias."
+    },
+    {
+        "nombre": "Zenodorus",
+        "fecha_nacimiento": 200,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 140,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Atenas, Grecia",
+        "lugar_fallecimiento": "Grecia",
+        "resumen": "Zenodorus fue un matemático griego que estudió el área de una figura con un perímetro fijo y el volumen de una figura sólida con superficie fija."
+    },
+    {
+        "nombre": "Hipparchus",
+        "fecha_nacimiento": 190,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 120,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Nicaea (actual Iznik), Bitinia (actual Turquía)",
+        "lugar_fallecimiento": "probablemente Rodas, Grecia",
+        "resumen": "Hipparchus fue un matemático griego que recopiló un ejemplo temprano de tablas trigonométricas y dio métodos para resolver triángulos esféricos."
+    },
+    {
+        "nombre": "Hypsicles",
+        "fecha_nacimiento": 190,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 120,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Alejandría, Egipto",
+        "lugar_fallecimiento": "Desconocido",
+        "resumen": "Hypsicles fue un matemático griego que escribió un tratado sobre poliedros regulares. Es el autor de lo que se ha llamado Libro XIV de los Elementos de Euclides, una obra que trata sobre la inscripción de sólidos regulares en una esfera."
+    },
+    {
+        "nombre": "Perseus",
+        "fecha_nacimiento": 150,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 150,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Desconocido",
+        "lugar_fallecimiento": "Desconocido",
+        "resumen": "Perseus está asociado con el descubrimiento de las llamadas curvas espíricas."
+    },
+    {
+        "nombre": "Theodosius",
+        "fecha_nacimiento": 160,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 90,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Bitinia, Anatolia (actual Turquía)",
+        "lugar_fallecimiento": "Desconocido",
+        "resumen": "Theodosius fue un matemático y astrónomo griego que trabajó en la geometría de la esfera."
+    },
+    {
+        "nombre": "Zeno",
+        "fecha_nacimiento": 150,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 70,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Sidón (actual Saida, Líbano)",
+        "lugar_fallecimiento": "Atenas, Grecia",
+        "resumen": "Zeno de Sidón fue un filósofo griego que se convirtió en jefe de la escuela epicúrea. Criticó algunos de los axiomas que Euclides estableció en Los Elementos."
+    },
+    {
+        "nombre": "Posidonius",
+        "fecha_nacimiento": 135,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 51,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Apamea, cerca de Shaizar, Siria",
+        "lugar_fallecimiento": "Rodas",
+        "resumen": "Posidonius fue un filósofo, astrónomo y matemático griego. Siguió la doctrina estoica e intentó estimar el tamaño del Sol y la Luna."
+    },
+    {
+        "nombre": "Luoxia Hong",
+        "fecha_nacimiento": 130,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 70,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "Suroeste de China",
+        "lugar_fallecimiento": "China",
+        "resumen": "Luoxia Hong fue un astrónomo chino que participó en la reforma del calendario."
+    },
+    {
+        "nombre": "Marcus Vitruvius Pollio",
+        "fecha_nacimiento": 85,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 20,
+        "era_fallecimiento": "a. C.",
+        "lugar_nacimiento": "posiblemente Fundi, Campania (actual Italia)",
+        "lugar_fallecimiento": "Italia",
+        "resumen": "Marcus Vitruvius Pollio fue un romano que escribió una influyente obra temprana sobre arquitectura."
+    },
+    {
+        "nombre": "Geminus",
+        "fecha_nacimiento": 10,
+        "era_nacimiento": "a. C.",
+        "fecha_fallecimiento": 60,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "posiblemente Rodas, Grecia",
+        "lugar_fallecimiento": "Desconocido",
+        "resumen": "Geminus fue un filósofo estoico que escribió varios textos de astronomía, incluida la influyente Isagoge o Introducción a la astronomía. Intentó probar el quinto postulado de Euclides a partir de los otros axiomas."
     }
 ];
