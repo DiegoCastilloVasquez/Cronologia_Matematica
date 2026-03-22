@@ -678,5 +678,105 @@
         "lugar_nacimiento": "Wei, China",
         "lugar_fallecimiento": "China",
         "resumen": "Liu Hui fue un matemático chino que escribió un comentario sobre 'Los nueve capítulos sobre el arte matemático'."
+    },
+    {
+        "nombre": "Porfirio Malco",
+        "fecha_nacimiento": 233,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 309,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Tiro (actualmente Sur, Líbano)",
+        "lugar_fallecimiento": "Roma, Italia",
+        "resumen": "Porfirio Malco escribió un comentario sobre los Elementos de Euclides y una Vida de Pitágoras."
+    },
+    {
+        "nombre": "Sporus de Nicea",
+        "fecha_nacimiento": 240,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 300,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Nicea (actualmente Iznik, Turquía)",
+        "lugar_fallecimiento": "Desconocido",
+        "resumen": "Sporus fue un matemático griego que trabajó en los problemas clásicos de la cuadratura del círculo y la duplicación del cubo."
+    },
+    {
+        "nombre": "Pappus de Alejandría",
+        "fecha_nacimiento": 290,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 350,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Alejandría, Egipto",
+        "lugar_fallecimiento": "Alejandría, Egipto",
+        "resumen": "Pappus es el último de los grandes geómetras griegos y uno de sus teoremas se cita como la base de la geometría proyectiva moderna. Escribió comentarios sobre los Elementos de Euclides y el Almagesto de Ptolomeo."
+    },
+    {
+        "nombre": "Pandrosión de Alejandría",
+        "fecha_nacimiento": 300,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 360,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "posiblemente Alejandría, Egipto",
+        "lugar_fallecimiento": "posiblemente Alejandría, Egipto",
+        "resumen": "Pandrosión de Alejandría fue una matemática griega del siglo IV d. C. Desarrolló un método aproximado para duplicar el cubo. Vivió antes que Hipatia."
+    },
+    {
+        "nombre": "Sereno",
+        "fecha_nacimiento": 300,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 360,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Antinópolis, Egipto",
+        "lugar_fallecimiento": "Desconocido",
+        "resumen": "Sereno fue un geómetra griego que escribió comentarios sobre el trabajo de otros matemáticos, además de demostrar algunos teoremas geométricos propios."
+    },
+    {
+        "nombre": "Teón de Alejandría",
+        "fecha_nacimiento": 335,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 405,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "posiblemente Alejandría, Egipto",
+        "lugar_fallecimiento": "Alejandría, Egipto",
+        "resumen": "Teón fue un matemático griego que trabajó en Alejandría como profesor de matemáticas y astronomía. Fue el padre de la primera mujer matemática, Hipatia."
+    },
+    {
+        "nombre": "Hipatia de Alejandría",
+        "fecha_nacimiento": 370,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 415,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Alejandría, Egipto",
+        "lugar_fallecimiento": "Alejandría, Egipto",
+        "resumen": "Hipatia fue la primera mujer en hacer una contribución sustancial al desarrollo de las matemáticas. Fue asesinada por una secta cristiana fanática."
+    },
+    {
+        "nombre": "Sun Zi",
+        "fecha_nacimiento": 400,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 460,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "China",
+        "lugar_fallecimiento": "China",
+        "resumen": "Sun Zi fue un matemático chino que escribió el Sunzi suanjing (Manual matemático de Sun Zi)."
+    },
+    {
+        "nombre": "Xiahou Yang",
+        "fecha_nacimiento": 400,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 470,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "China",
+        "lugar_fallecimiento": "China",
+        "resumen": "Xiahou Yang fue un matemático chino que escribió el texto Xiahou Yang suanjing (Manual matemático de Xiahou Yang)."
+    },
+    {
+        "nombre": "Proclo Diadoco",
+        "fecha_nacimiento": 411,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 485,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Constantinopla (actualmente Estambul), Turquía",
+        "lugar_fallecimiento": "Atenas, Grecia",
+        "resumen": "Proclo fue un filósofo griego que se convirtió en director de la Academia de Platón y es importante matemáticamente por sus comentarios sobre el trabajo de otros matemáticos."
     }
 ]
