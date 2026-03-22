@@ -558,5 +558,125 @@ const datos = [
         "lugar_nacimiento": "posiblemente Rodas, Grecia",
         "lugar_fallecimiento": "Desconocido",
         "resumen": "Geminus fue un filósofo estoico que escribió varios textos de astronomía, incluida la influyente Isagoge o Introducción a la astronomía. Intentó probar el quinto postulado de Euclides a partir de los otros axiomas."
+    },
+    {
+        "nombre": "Cleomedes",
+        "fecha_nacimiento": 50,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 50,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "posiblemente Lisimaquia, Helesponto, Grecia (actual Turquía)",
+        "lugar_fallecimiento": "desconocido",
+        "resumen": "Cleomedes fue un astrónomo griego autor de un tratado sobre astronomía circular."
+    },
+    {
+        "nombre": "Herón de Alejandría",
+        "fecha_nacimiento": 10,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 75,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "posiblemente Alejandría, Egipto",
+        "lugar_fallecimiento": "desconocido",
+        "resumen": "Herón fue un importante geómetra e inventor de numerosas máquinas, incluida una turbina de vapor. Su obra matemática más conocida es la fórmula que lleva su nombre para el área de un triángulo en función de sus lados."
+    },
+    {
+        "nombre": "Nicómaco de Gerasa",
+        "fecha_nacimiento": 60,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 120,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Gerasa, Siria romana (posiblemente actual Jarash, Jordania)",
+        "lugar_fallecimiento": "desconocido",
+        "resumen": "Nicómaco fue uno de los principales miembros de la escuela pitagórica. Su 'Introducción a la aritmética' fue el texto estándar de aritmética durante más de mil años."
+    },
+    {
+        "nombre": "Menelao de Alejandría",
+        "fecha_nacimiento": 70,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 130,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "posiblemente Alejandría, Egipto",
+        "lugar_fallecimiento": "desconocido",
+        "resumen": "Menelao fue uno de los últimos geómetras griegos que aplicó la geometría esférica a la astronomía. Es famoso por el teorema que lleva su nombre."
+    },
+    {
+        "nombre": "Teón de Esmirna",
+        "fecha_nacimiento": 70,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 135,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Esmirna (actual Izmir, Turquía)",
+        "lugar_fallecimiento": "desconocido",
+        "resumen": "Teón fue un filósofo griego que describió cómo se interrelacionan los números primos, los números geométricos como los cuadrados, las progresiones, la música y la astronomía."
+    },
+    {
+        "nombre": "Zhang Heng",
+        "fecha_nacimiento": 78,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 139,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Nanyang, China",
+        "lugar_fallecimiento": "China",
+        "resumen": "Zhang Heng fue un matemático, astrónomo y geógrafo chino. Se convirtió en astrólogo jefe y ministro bajo el emperador An de China."
+    },
+    {
+        "nombre": "Claudio Ptolomeo",
+        "fecha_nacimiento": 85,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 165,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Egipto",
+        "lugar_fallecimiento": "Alejandría, Egipto",
+        "resumen": "Ptolomeo fue el astrónomo y geógrafo griego más influyente de su época. Propuso la teoría geocéntrica del sistema solar que prevaleció durante 1400 años."
+    },
+    {
+        "nombre": "Yavanesvara",
+        "fecha_nacimiento": 120,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 180,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "India occidental",
+        "lugar_fallecimiento": "India",
+        "resumen": "Yavanesvara fue un astrólogo indio que tradujo un importante texto griego sobre astrología."
+    },
+    {
+        "nombre": "Liu Hong",
+        "fecha_nacimiento": 129,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 210,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Luoyang, China",
+        "lugar_fallecimiento": "China",
+        "resumen": "Liu Hong fue un astrónomo chino involucrado en la reforma del calendario."
+    },
+    {
+        "nombre": "Xu Yue",
+        "fecha_nacimiento": 160,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 227,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Donglai, provincia de Shandong, China",
+        "lugar_fallecimiento": "China",
+        "resumen": "Xu Yue fue un matemático chino que escribió un comentario sobre 'Los nueve capítulos sobre el arte matemático'."
+    },
+    {
+        "nombre": "Diofanto de Alejandría",
+        "fecha_nacimiento": 200,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 284,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "probablemente Alejandría, Egipto",
+        "lugar_fallecimiento": "probablemente Alejandría, Egipto",
+        "resumen": "Diofanto fue un matemático griego, a veces llamado 'el padre del álgebra', famoso por su 'Aritmética'. Esta obra tuvo una enorme influencia en el desarrollo de la teoría de números."
+    },
+    {
+        "nombre": "Liu Hui",
+        "fecha_nacimiento": 220,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 280,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Wei, China",
+        "lugar_fallecimiento": "China",
+        "resumen": "Liu Hui fue un matemático chino que escribió un comentario sobre 'Los nueve capítulos sobre el arte matemático'."
     }
 ];
