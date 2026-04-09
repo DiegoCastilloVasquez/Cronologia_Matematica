@@ -778,5 +778,105 @@ const datos = [
         "lugar_nacimiento": "Constantinopla (actualmente Estambul), Turquía",
         "lugar_fallecimiento": "Atenas, Grecia",
         "resumen": "Proclo fue un filósofo griego que se convirtió en director de la Academia de Platón y es importante matemáticamente por sus comentarios sobre el trabajo de otros matemáticos."
+    },
+    {
+        "nombre": "Domninus de Larissa",
+        "fecha_nacimiento": 420,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 480,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Larissa (actual Shaizar), Siria",
+        "lugar_fallecimiento": null,
+        "resumen": "Domninus fue un filósofo griego cuyo trabajo matemático no fue apreciado hasta que se publicó en el siglo XIX."
+    },
+    {
+        "nombre": "Zu Chongzhi",
+        "fecha_nacimiento": 429,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 501,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Jiankang (actual Nanjing, provincia de Jiangsu), China",
+        "lugar_fallecimiento": "China",
+        "resumen": "Zu Chongzhi fue un matemático y astrónomo chino. Introdujo la aproximación 355/113 para π, correcta hasta 6 decimales."
+    },
+    {
+        "nombre": "Zhang Qiujian",
+        "fecha_nacimiento": 430,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 490,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "China",
+        "lugar_fallecimiento": "China",
+        "resumen": "Zhang Qiujian fue un matemático chino que escribió el texto 'Zhang Qiujian suanjing' (Manual matemático de Zhang Qiujian)."
+    },
+    {
+        "nombre": "Marinus de Neápolis",
+        "fecha_nacimiento": 450,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 500,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Neápolis, Palestina (llamada Siquem en la Biblia, actual Nablus, Israel)",
+        "lugar_fallecimiento": "posiblemente Atenas, Grecia",
+        "resumen": "Marinus sucedió a Proclo como director de la Academia de Atenas. Publicó algunos trabajos sobre astronomía."
+    },
+    {
+        "nombre": "Zu Geng",
+        "fecha_nacimiento": 450,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 520,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Jiankang (actual Nanjing, provincia de Jiangsu), China",
+        "lugar_fallecimiento": "China",
+        "resumen": "Zu Geng fue un matemático chino cuyo mayor logro fue calcular el diámetro de una esfera de volumen dado."
+    },
+    {
+        "nombre": "Antemio de Tralles",
+        "fecha_nacimiento": 474,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 534,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "posiblemente Tralles (cerca de Aydin, en el suroeste de Turquía)",
+        "lugar_fallecimiento": null,
+        "resumen": "Antemio fue el arquitecto bizantino que reemplazó la antigua iglesia de Santa Sofía en Constantinopla. Describió la construcción de una elipse con una cuerda fija en los dos focos y las propiedades focales de la parábola."
+    },
+    {
+        "nombre": "Aryabhata el Viejo",
+        "fecha_nacimiento": 476,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 550,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Kusumapura (actual Patna), India",
+        "lugar_fallecimiento": "India",
+        "resumen": "Aryabhata I fue un matemático indio que escribió el 'Aryabhatiya', que resume las matemáticas hindúes hasta el siglo VI."
+    },
+    {
+        "nombre": "Boecio",
+        "fecha_nacimiento": 480,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 524,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "en o cerca de Roma, Imperio Bizantino (actual Italia)",
+        "lugar_fallecimiento": "Pavía, Imperio Gótico (actual Italia)",
+        "resumen": "Boecio fue un matemático y filósofo romano que escribió textos de geometría y aritmética utilizados durante muchos siglos en una época en que el logro matemático en Europa era notablemente bajo."
+    },
+    {
+        "nombre": "Eutocio de Ascalón",
+        "fecha_nacimiento": 480,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 540,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Ascalón, Palestina (actual Ascalón, Israel)",
+        "lugar_fallecimiento": null,
+        "resumen": "Eutocio fue un matemático griego que escribió comentarios sobre las obras de Arquímedes y Apolonio."
+    },
+    {
+        "nombre": "Simplicio",
+        "fecha_nacimiento": 490,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 560,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Cilicia, Anatolia (actual Turquía)",
+        "lugar_fallecimiento": "probablemente Atenas, Grecia",
+        "resumen": "Simplicio fue un matemático griego que escribió comentarios sobre las obras de otros filósofos y matemáticos, incluyendo a Euclides y Aristóteles."
     }
 ];
