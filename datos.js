@@ -878,5 +878,605 @@ const datos = [
         "lugar_nacimiento": "Cilicia, Anatolia (actual Turquía)",
         "lugar_fallecimiento": "probablemente Atenas, Grecia",
         "resumen": "Simplicio fue un matemático griego que escribió comentarios sobre las obras de otros filósofos y matemáticos, incluyendo a Euclides y Aristóteles."
+    },
+    {
+        "nombre": "Yativrsabha",
+        "fecha_nacimiento": 500,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 570,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "India",
+        "lugar_fallecimiento": "India",
+        "resumen": "Yativrsabha fue un matemático jainista que dio una descripción del universo que es de importancia histórica para comprender la ciencia y las matemáticas jainistas."
+    },
+    {
+        "nombre": "Varahamihira",
+        "fecha_nacimiento": 505,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 587,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Kapitthaka, India",
+        "lugar_fallecimiento": "India",
+        "resumen": "Varahamihira fue un astrólogo indio cuya obra principal fue un tratado sobre astronomía matemática que resumía tratados astronómicos anteriores. Descubrió una versión del triángulo de Pascal y trabajó en cuadrados mágicos."
+    },
+    {
+        "nombre": "Wang Xiaotong",
+        "fecha_nacimiento": 580,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 640,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "China",
+        "lugar_fallecimiento": "China",
+        "resumen": "Wang Xiaotong fue un matemático y astrónomo chino que participó en la reforma del calendario y en la resolución de ecuaciones cúbicas."
+    },
+    {
+        "nombre": "Anania Širakuni",
+        "fecha_nacimiento": 595,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 670,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Anēank', provincia de Širak, Armenia",
+        "lugar_fallecimiento": "Anavank', Armenia",
+        "resumen": "Anania de Shirak fue un erudito polímata armenio medieval, conocido como el padre de las ciencias matemáticas dentro de la tradición armenia. El corpus de sus obras incluye escritos sobre matemáticas, astronomía, teología, filosofía, geografía, aritmética y cosmografía, incluido el libro de aritmética más antiguo conocido sobre las cuatro operaciones básicas."
+    },
+    {
+        "nombre": "Brahmagupta",
+        "fecha_nacimiento": 598,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 670,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "posiblemente Ujjain, India",
+        "lugar_fallecimiento": "India",
+        "resumen": "Brahmagupta fue el matemático indio más importante de su tiempo. Hizo avances en astronomía y, sobre todo, en sistemas numéricos, incluidos algoritmos para raíces cuadradas y la resolución de ecuaciones cuadráticas."
+    },
+    {
+        "nombre": "Bhaskara I",
+        "fecha_nacimiento": 600,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 680,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "posiblemente Saurastra (actual estado de Gujarat), India",
+        "lugar_fallecimiento": "posiblemente Asmaka, India",
+        "resumen": "Bhaskara I fue un matemático indio que escribió comentarios sobre la obra de Aryabhata I."
+    },
+    {
+        "nombre": "Li Chunfeng",
+        "fecha_nacimiento": 602,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 670,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "provincia de Shaanxi, China",
+        "lugar_fallecimiento": "Chang'an, China",
+        "resumen": "Li Chunfeng fue un matemático chino que trabajó en astronomía y reforma del calendario."
+    },
+    {
+        "nombre": "Lalla",
+        "fecha_nacimiento": 720,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 790,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "India",
+        "lugar_fallecimiento": "India",
+        "resumen": "Lalla fue un matemático indio que escribió principalmente sobre la aplicación de las matemáticas a la astronomía."
+    },
+    {
+        "nombre": "Alcuin of York",
+        "fecha_nacimiento": 735,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 804,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "York, Yorkshire, Inglaterra",
+        "lugar_fallecimiento": "Tours, Francia",
+        "resumen": "Alcuino de York fue un matemático inglés que escribió textos elementales sobre aritmética, geometría y astronomía."
+    },
+    {
+        "nombre": "Abu Ja'far Muhammad ibn Musa Al-Khwarizmi",
+        "fecha_nacimiento": 780,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 850,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "posiblemente Bagdad (actual Irak)",
+        "lugar_fallecimiento": "",
+        "resumen": "Al-Juarismi fue un matemático islámico que escribió sobre los números hindú-arábigos. La palabra algoritmo deriva de su nombre. Su tratado de álgebra Hisab al-jabr w'al-muqabala nos da la palabra álgebra y puede considerarse como el primer libro escrito sobre álgebra."
+    },
+    {
+        "nombre": "al-Abbas ibn Said Al-Jawhari",
+        "fecha_nacimiento": 800,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 860,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "posiblemente Bagdad, Irak",
+        "lugar_fallecimiento": "posiblemente Bagdad, Irak",
+        "resumen": "Al-Jawhari fue un matemático islámico cuyo trabajo principal fue un comentario sobre los Elementos de Euclides."
+    },
+    {
+        "nombre": "Banu Musa (hermanos)",
+        "fecha_nacimiento": 800,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 0,
+        "era_fallecimiento": "",
+        "lugar_nacimiento": "Bagdad (actual Irak)",
+        "lugar_fallecimiento": "Irak",
+        "resumen": "Los hermanos Banu Musa fueron matemáticos islámicos cuyo trabajo es casi indistinguible."
+    },
+    {
+        "nombre": "Govindasvami",
+        "fecha_nacimiento": 800,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 860,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "India",
+        "lugar_fallecimiento": "India",
+        "resumen": "Govindasvami fue un astrónomo matemático indio cuyo tratado más famoso fue un comentario sobre el trabajo de Bhaskara I."
+    },
+    {
+        "nombre": "Jafar Muhammad Banu Musa",
+        "fecha_nacimiento": 800,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 873,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Bagdad, Irak",
+        "lugar_fallecimiento": "Irak",
+        "resumen": "Jafar Muhammad Banu Musa fue uno de los tres hermanos Banu Musa. Escribió sobre cónicas."
+    },
+    {
+        "nombre": "Mahāvīra",
+        "fecha_nacimiento": 800,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 870,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "posiblemente Mysore, India",
+        "lugar_fallecimiento": "India",
+        "resumen": "Mahāvīra fue un matemático indio que amplió las matemáticas de Brahmagupta."
+    },
+    {
+        "nombre": "Ahmad Banu Musa",
+        "fecha_nacimiento": 805,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 873,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Bagdad, Irak",
+        "lugar_fallecimiento": "Bagdad, Irak",
+        "resumen": "Ahmad Banu Musa fue uno de los tres hermanos Banu Musa. Escribió sobre mecánica."
+    },
+    {
+        "nombre": "Abu Yusuf Yaqub ibn Ishaq al-Sabbah Al-Kindi",
+        "fecha_nacimiento": 801,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 873,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Kufa, Irak",
+        "lugar_fallecimiento": "Bagdad, Irak",
+        "resumen": "Al-Kindi fue un matemático islámico que escribió sobre el sistema numérico indio, así como sobre geometría y óptica."
+    },
+    {
+        "nombre": "Abu Zayd Hunayn ibn Ishaq al-Ibadi",
+        "fecha_nacimiento": 808,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 873,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Al-Hirah (actual Irak)",
+        "lugar_fallecimiento": "Bagdad (actual Irak)",
+        "resumen": "Hunayn ibn Ishaq fue un matemático cristiano nestoriano que es más importante como traductor, haciendo disponibles obras griegas para los matemáticos islámicos."
+    },
+    {
+        "nombre": "al-Hasan Banu Musa",
+        "fecha_nacimiento": 810,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 873,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Bagdad, Irak",
+        "lugar_fallecimiento": "Bagdad, Irak",
+        "resumen": "Al-Hasan Banu Musa fue uno de los tres hermanos Banu Musa. Escribió sobre la elipse."
+    },
+    {
+        "nombre": "Abu Abd Allah Muhammad ibn Isa Al-Mahani",
+        "fecha_nacimiento": 820,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 880,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Mahan, Kermán, Persia (actual Irán)",
+        "lugar_fallecimiento": "Bagdad, Irak",
+        "resumen": "Al-Mahani fue un matemático islámico que intentó resolver algunos problemas de Arquímedes sobre la división de esferas."
+    },
+    {
+        "nombre": "Prthudakasvami",
+        "fecha_nacimiento": 830,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 890,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "India",
+        "lugar_fallecimiento": "India",
+        "resumen": "Prthudakasvami fue un matemático indio conocido por su trabajo en la resolución de ecuaciones."
+    },
+    {
+        "nombre": "Ahmed ibn Yusuf al-Misri",
+        "fecha_nacimiento": 835,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 912,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Bagdad, Irak",
+        "lugar_fallecimiento": "El Cairo, Egipto",
+        "resumen": "Ahmed ibn Yusuf fue un matemático islámico que escribió un comentario sobre los Elementos de Euclides que influyó en matemáticos europeos posteriores."
+    },
+    {
+        "nombre": "Al-Sabi Thabit ibn Qurra al-Harrani",
+        "fecha_nacimiento": 836,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 901,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Harran, Mesopotamia (actual Turquía)",
+        "lugar_fallecimiento": "Bagdad, Irak",
+        "resumen": "Thabit ibn Qurra fue un importante matemático islámico que trabajó en teoría de números, astronomía y estática."
+    },
+    {
+        "nombre": "Sankara Narayana",
+        "fecha_nacimiento": 840,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 900,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "India",
+        "lugar_fallecimiento": "India",
+        "resumen": "Sankara Narayana fue un astrónomo y matemático indio. Escribió un comentario sobre el trabajo de Bhaskara I."
+    },
+    {
+        "nombre": "Abu Kamil Shuja ibn Aslam ibn Muhammad ibn Shuja",
+        "fecha_nacimiento": 850,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 930,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Egipto",
+        "lugar_fallecimiento": "",
+        "resumen": "Abu Kamil Shuja fue un matemático islámico. Fue uno de los sucesores de Al-Khwarizmi y aplicó métodos algebraicos a problemas geométricos."
+    },
+    {
+        "nombre": "Abu Abdallah Mohammad ibn Jabir Al-Battani",
+        "fecha_nacimiento": 850,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 929,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Harran, Mesopotamia (actual Turquía)",
+        "lugar_fallecimiento": "Qasr al-Jiss, Irak",
+        "resumen": "Al-Battani o Albategnius fue un astrónomo y matemático islámico. Realizó importantes mediciones precisas de estrellas, la luna y los planetas. Sus mediciones y métodos fueron utilizados por astrónomos posteriores."
+    },
+    {
+        "nombre": "Sridhara",
+        "fecha_nacimiento": 870,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 930,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Bengala, India",
+        "lugar_fallecimiento": "India",
+        "resumen": "Sridhara fue un matemático indio que escribió sobre aplicaciones prácticas del álgebra y fue uno de los primeros en dar una fórmula para resolver ecuaciones cuadráticas."
+    },
+    {
+        "nombre": "Abu'l Abbas al-Fadl ibn Hatim Al-Nayrizi",
+        "fecha_nacimiento": 865,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 922,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Nayriz, Irán",
+        "lugar_fallecimiento": "Bagdad, Irak",
+        "resumen": "Al-Nayrizi fue un matemático islámico que escribió comentarios sobre el trabajo de Ptolomeo y Euclides."
+    },
+    {
+        "nombre": "Abu Said Sinan ibn Thabit ibn Qurra",
+        "fecha_nacimiento": 880,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 943,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "",
+        "lugar_fallecimiento": "Bagdad, Irak",
+        "resumen": "Sinan ibn Thabit fue hijo y padre de otros matemáticos islámicos. Es más importante por sus contribuciones a la medicina que a las matemáticas."
+    },
+    {
+        "nombre": "Abu Jafar Muhammad ibn al-Hasan Al-Khazin",
+        "fecha_nacimiento": 900,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 971,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Jorasán (este de Irán)",
+        "lugar_fallecimiento": "Rayy, Irán",
+        "resumen": "Al-Khazin fue un matemático islámico que trabajó en teoría de números y astronomía."
+    },
+    {
+        "nombre": "Ibrahim ibn Sinan ibn Thabit ibn Qurra",
+        "fecha_nacimiento": 908,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 946,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Bagdad (actual Irak)",
+        "lugar_fallecimiento": "Bagdad (actual Irak)",
+        "resumen": "Ibrahim ibn Sinan fue un matemático y astrónomo islámico que estudió geometría y en particular las tangentes a los círculos. También hizo avances en la teoría de la integración."
+    },
+    {
+        "nombre": "Abu'l Hasan Ahmad ibn Ibrahim Al-Uqlidisi",
+        "fecha_nacimiento": 920,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 980,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "posiblemente Damasco, Siria",
+        "lugar_fallecimiento": "posiblemente Damasco, Siria",
+        "resumen": "Al-Uqlidisi fue un matemático islámico que escribió dos obras sobre aritmética. Pudo haber anticipado la invención de los decimales."
+    },
+    {
+        "nombre": "Aryabhata II",
+        "fecha_nacimiento": 920,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1000,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "India",
+        "lugar_fallecimiento": "India",
+        "resumen": "Aryabhata II fue un matemático indio que escribió sobre astronomía y geometría. Construyó tablas de senos con una precisión de hasta 5 cifras."
+    },
+    {
+        "nombre": "Mohammad Abu'l-Wafa Al-Buzjani",
+        "fecha_nacimiento": 940,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 998,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Buzjan (cerca de Jam), región de Jorasán (actual Irán)",
+        "lugar_fallecimiento": "Bagdad (actual Irak)",
+        "resumen": "Abu'l-Wafa fue un astrónomo y matemático islámico que escribió comentarios sobre las obras de matemáticos anteriores. Realizó observaciones astronómicas y construyó tablas trigonométricas precisas."
+    },
+    {
+        "nombre": "Abu Mahmud Hamid ibn al-Khidr Al-Khujandi",
+        "fecha_nacimiento": 940,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1000,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Juyand, Tayikistán",
+        "lugar_fallecimiento": "Desconocido",
+        "resumen": "Al-Khujandi fue un astrónomo y matemático islámico. Realizó observaciones astronómicas precisas y pudo haber hecho algunos avances en trigonometría."
+    },
+    {
+        "nombre": "Abu Sahl Waijan ibn Rustam al-Quhi",
+        "fecha_nacimiento": 940,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1000,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Tabaristán (actual Mazandarán), Persia (actual Irán)",
+        "lugar_fallecimiento": "Desconocido",
+        "resumen": "Al-Quhi fue un matemático islámico que fue una figura destacada en el renacimiento y la continuación de la geometría griega."
+    },
+    {
+        "nombre": "Vijayanandi",
+        "fecha_nacimiento": 940,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1010,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Benarés (actual Varanasi), India",
+        "lugar_fallecimiento": "India",
+        "resumen": "Vijayanandi fue un matemático y astrónomo indio que hizo algunas contribuciones a la trigonometría."
+    },
+    {
+        "nombre": "Abu Said Ahmad ibn Muhammad Al-Sijzi",
+        "fecha_nacimiento": 945,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1020,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Sistán, Persia (actual Irán)",
+        "lugar_fallecimiento": "Desconocido",
+        "resumen": "Al-Sijzi fue un astrónomo y matemático islámico que escribió sobre la geometría de las esferas."
+    },
+    {
+        "nombre": "Gerberto de Aurillac",
+        "fecha_nacimiento": 946,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1003,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Belliac (actual Saint-Simon), Auvernia, Francia",
+        "lugar_fallecimiento": "Roma (actual Italia)",
+        "resumen": "Gerberto de Aurillac o el papa Silvestre II fue un talentoso profesor de matemáticas francés que popularizó los numerales indo-arábigos."
+    },
+    {
+        "nombre": "Abu'l-Hasan Ali ibn Abd al-Rahman ibn Yunus",
+        "fecha_nacimiento": 950,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1009,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Egipto",
+        "lugar_fallecimiento": "Fustat, Egipto",
+        "resumen": "Ibn Yunus fue un matemático islámico conocido por sus observaciones astronómicas y por sus numerosas tablas trigonométricas y astronómicas."
+    },
+    {
+        "nombre": "Abu Bekr ibn Muhammad ibn al-Husayn Al-Karaji",
+        "fecha_nacimiento": 953,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1029,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Bagdad (actual Irak)",
+        "lugar_fallecimiento": "Desconocido",
+        "resumen": "Al-Karaji fue un matemático islámico que escribió sobre el trabajo de matemáticos anteriores y puede ser considerado como la primera persona en liberar el álgebra de las operaciones geométricas, reemplazándolas con el tipo de operaciones que son el núcleo del álgebra actual."
+    },
+    {
+        "nombre": "Abu Ali al-Hasan ibn al-Haytham",
+        "fecha_nacimiento": 965,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1040,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "posiblemente Basora, Persia (actual Irak)",
+        "lugar_fallecimiento": "posiblemente El Cairo, Egipto",
+        "resumen": "Al-Haytham, también conocido como Alhazen, fue un matemático islámico que escribió trabajos tempranos sobre óptica, así como geometría y teoría de números."
+    },
+    {
+        "nombre": "Abu Nasr Mansur ibn Ali ibn Iraq",
+        "fecha_nacimiento": 970,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1036,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "posiblemente Juarazm (actual Karakalpakistán, Uzbekistán)",
+        "lugar_fallecimiento": "probablemente Gazna (actual Gazni, Afganistán)",
+        "resumen": "Abu Nasr Mansur fue un príncipe y matemático islámico que colaboró con Al-Biruni en astronomía y matemáticas. Descubrió la ley del seno para triángulos."
+    },
+    {
+        "nombre": "Kushyar ibn Labban",
+        "fecha_nacimiento": 971,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1029,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Gilán (actual Irán)",
+        "lugar_fallecimiento": "Bagdad (actual Irak)",
+        "resumen": "Kushyar ibn Labban fue un astrónomo persa que escribió un trabajo temprano sobre los numerales hindúes."
+    },
+    {
+        "nombre": "Abu Arrayhan Muhammad ibn Ahmad al-Biruni",
+        "fecha_nacimiento": 973,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1048,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Kath, Juarazm (actual Karakalpakistán, Uzbekistán)",
+        "lugar_fallecimiento": "Gazna (actual Gazni, Afganistán)",
+        "resumen": "Al-Biruni es una de las figuras principales de las matemáticas islámicas. Contribuyó a la astronomía, matemáticas, física, medicina e historia."
+    },
+    {
+        "nombre": "Abu Mansur ibn Tahir Al-Baghdadi",
+        "fecha_nacimiento": 980,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1037,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Bagdad, Irak",
+        "lugar_fallecimiento": "Desconocido",
+        "resumen": "Al-Baghdadi fue un matemático islámico que escribió sobre diferentes sistemas de aritmética en una obra de gran importancia en la historia de las matemáticas."
+    },
+    {
+        "nombre": "Abu Ali al-Husain ibn Abdallah ibn Sina (Avicenna)",
+        "fecha_nacimiento": 980,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1037,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Jarmaitén (cerca de Bujará), Asia Central (actual Uzbekistán)",
+        "lugar_fallecimiento": "Hamadán, Persia (actual Irán)",
+        "resumen": "Ibn Sina o Avicena fue el más influyente de todos los filósofos-científicos islámicos. Escribió sobre medicina, así como geometría, astronomía, aritmética y música."
+    },
+    {
+        "nombre": "Abu Abd Allah Muhammad ibn Muadh Al-Jayyani",
+        "fecha_nacimiento": 989,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1079,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Córdoba, Al-Ándalus (actual España)",
+        "lugar_fallecimiento": "posiblemente Jaén, Al-Ándalus (actual España)",
+        "resumen": "Al-Jayyani fue un matemático islámico que trabajó en España. Escribió importantes comentarios sobre los Elementos de Euclides y escribió el primer tratado sobre trigonometría esférica."
+    },
+    {
+        "nombre": "Abu l'Hasan Ali ibn Ahmad Al-Nasawi",
+        "fecha_nacimiento": 1010,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1075,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "posiblemente Nasa, Jorasán, Irán",
+        "lugar_fallecimiento": "posiblemente Bagdad, Irak",
+        "resumen": "Al-Nasawi fue un matemático islámico que escribió resúmenes de algunos de los Elementos de Euclides."
+    },
+    {
+        "nombre": "Jia Xian",
+        "fecha_nacimiento": 1010,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1070,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "China",
+        "lugar_fallecimiento": "China",
+        "resumen": "Jia Xian fue un erudito chino que escribió algunos libros tempranos de aritmética. Tuvo una versión temprana del triángulo de Pascal."
+    },
+    {
+        "nombre": "Hermann de Reichenau",
+        "fecha_nacimiento": 1013,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1054,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Saulgau, Suabia, Alemania",
+        "lugar_fallecimiento": "Reichenau, Alemania",
+        "resumen": "Hermann de Reichenau fue un matemático alemán importante para la transmisión de las matemáticas árabes, la astronomía y los instrumentos científicos a Europa central."
+    },
+    {
+        "nombre": "Sripati",
+        "fecha_nacimiento": 1019,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1066,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Rohinikhanda, Maharashtra, India",
+        "lugar_fallecimiento": "India",
+        "resumen": "Sripati fue un indio que escribió obras sobre astronomía y aritmética."
+    },
+    {
+        "nombre": "Abu Ishaq Ibrahim ibn Yahya al-Zarqali",
+        "fecha_nacimiento": 1029,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1100,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Córdoba, España",
+        "lugar_fallecimiento": "Córdoba, España",
+        "resumen": "Al-Zarkali fue un científico musulmán español, fabricante de instrumentos, astrólogo e importante astrónomo. Inventó una forma de astrolabio."
+    },
+    {
+        "nombre": "Shen Kua",
+        "fecha_nacimiento": 1031,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1095,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Hangzhou, provincia de Zhejiang, China",
+        "lugar_fallecimiento": "Ching-k'ou, China",
+        "resumen": "Shen Kua fue un erudito chino que escribió sobre una amplia variedad de temas incluyendo matemáticas, música, astronomía, calendarios, cartografía, geología, óptica y medicina."
+    },
+    {
+        "nombre": "Omar Khayyam",
+        "fecha_nacimiento": 1048,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1131,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Nishapur, Persia (actual Irán)",
+        "lugar_fallecimiento": "Nishapur, Persia (actual Irán)",
+        "resumen": "Omar Khayyam fue un erudito islámico que fue poeta además de matemático. Compiló tablas astronómicas y contribuyó a la reforma del calendario y descubrió un método geométrico para resolver ecuaciones cúbicas intersectando una parábola con un círculo."
+    },
+    {
+        "nombre": "Brahmadeva",
+        "fecha_nacimiento": 1060,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1130,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "posiblemente Mathura, India",
+        "lugar_fallecimiento": "India",
+        "resumen": "Brahmadeva fue un matemático indio que escribió un comentario sobre la obra de Aryabhata I."
+    },
+    {
+        "nombre": "Abraham bar Hiyya Ha-Nasi",
+        "fecha_nacimiento": 1070,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1136,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Barcelona (actual España)",
+        "lugar_fallecimiento": "Provenza, Francia",
+        "resumen": "Abraham bar Hiyya fue un matemático y astrónomo judío español. Escribió el primer libro que introdujo el álgebra islámica en Europa."
+    },
+    {
+        "nombre": "Adelardo de Bath",
+        "fecha_nacimiento": 1075,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1160,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Bath, Inglaterra",
+        "lugar_fallecimiento": "Desconocido",
+        "resumen": "Adelardo fue un filósofo inglés que tradujo obras matemáticas árabes al latín."
+    },
+    {
+        "nombre": "Acharya Hemchandra",
+        "fecha_nacimiento": 1089,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1173,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Dhandhuka, Gujarat, India",
+        "lugar_fallecimiento": "Gujarat, India",
+        "resumen": "Hemchandra fue un erudito sánscrito que publicó obras sobre ciencia, idiomas y filosofía."
+    },
+    {
+        "nombre": "Abraham ben Meir ibn Ezra",
+        "fecha_nacimiento": 1092,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1167,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Tudela, Emirato de Zaragoza (actual España)",
+        "lugar_fallecimiento": "Calahorra, España",
+        "resumen": "Abraham ben Meir ibn Ezra trabajó en la España islámica y escribió obras que introdujeron las matemáticas islámicas y los sistemas numéricos indios a Europa."
     }
 ];
