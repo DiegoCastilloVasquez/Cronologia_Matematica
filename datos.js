@@ -1478,5 +1478,505 @@ const datos = [
         "lugar_nacimiento": "Tudela, Emirato de Zaragoza (actual España)",
         "lugar_fallecimiento": "Calahorra, España",
         "resumen": "Abraham ben Meir ibn Ezra trabajó en la España islámica y escribió obras que introdujeron las matemáticas islámicas y los sistemas numéricos indios a Europa."
+    },
+    {
+        "nombre": "Jabir ibn Aflah",
+        "fecha_nacimiento": 1100,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1160,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Sevilla (actual España)",
+        "lugar_fallecimiento": "desconocido",
+        "resumen": "Jabir ibn Aflah, también conocido como Geber, fue un matemático hispano-islámico cuyas obras fueron traducidas al latín y así estuvieron disponibles para los matemáticos europeos."
+    },
+    {
+        "nombre": "Bhaskara II",
+        "fecha_nacimiento": 1114,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1185,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Vijayapura, India",
+        "lugar_fallecimiento": "Ujjain, India",
+        "resumen": "Bhaskara II o Bhaskaracharya fue un matemático y astrónomo indio que extendió el trabajo de Brahmagupta sobre sistemas numéricos."
+    },
+    {
+        "nombre": "Gerardo de Cremona",
+        "fecha_nacimiento": 1114,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1187,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Cremona, Italia",
+        "lugar_fallecimiento": "Toledo, Castilla (actual España)",
+        "resumen": "Gerardo de Cremona fue un matemático italiano que trabajó en España y tradujo obras matemáticas del árabe al latín."
+    },
+    {
+        "nombre": "Al-Samawal",
+        "fecha_nacimiento": 1130,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1180,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Bagdad, Irak",
+        "lugar_fallecimiento": "Maragha, Irán",
+        "resumen": "Al-Samawal fue un matemático islámico que logró extender las operaciones aritméticas para manejar polinomios. Utilizó una forma temprana de inducción."
+    },
+    {
+        "nombre": "Sharaf al-Din al-Tusi",
+        "fecha_nacimiento": 1135,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1213,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Tus, Jorasán (actual Irán)",
+        "lugar_fallecimiento": "Irán",
+        "resumen": "Sharaf al-Tusi fue un matemático islámico que escribió un tratado sobre ecuaciones cúbicas."
+    },
+    {
+        "nombre": "Reinher de Paderborn",
+        "fecha_nacimiento": 1140,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1190,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Paderborn, Sacro Imperio Romano (actual Alemania)",
+        "lugar_fallecimiento": "Paderborn, Sacro Imperio Romano (actual Alemania)",
+        "resumen": "Reinher de Paderborn fue un matemático alemán que trabajó en las matemáticas del calendario y, en particular, en el cálculo de la Pascua."
+    },
+    {
+        "nombre": "Robert Grosseteste",
+        "fecha_nacimiento": 1168,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1253,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Stradbroke, Suffolk, Inglaterra",
+        "lugar_fallecimiento": "Buckden, Buckinghamshire, Inglaterra",
+        "resumen": "Robert Grosseteste fue un obispo inglés que trabajó en geometría, óptica y astronomía, e hizo traducciones al latín de muchos escritos científicos griegos y árabes."
+    },
+    {
+        "nombre": "Leonardo Pisano Fibonacci",
+        "fecha_nacimiento": 1170,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1250,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "probablemente Pisa (actual Italia)",
+        "lugar_fallecimiento": "posiblemente Pisa (actual Italia)",
+        "resumen": "Leonardo de Pisa o Fibonacci desempeñó un papel importante en la revitalización de las matemáticas antiguas e hizo contribuciones significativas por derecho propio. El Liber abaci introdujo el sistema decimal posicional hindú-arábigo y el uso de los numerales arábigos en Europa."
+    },
+    {
+        "nombre": "Michael Scot",
+        "fecha_nacimiento": 1175,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1235,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "probablemente norte de Inglaterra o sur de Escocia",
+        "lugar_fallecimiento": "posiblemente norte de Inglaterra o sur de Escocia",
+        "resumen": "Michael Scot (o Scotus) ayudó en la transmisión de las matemáticas islámicas desde España al resto de Europa."
+    },
+    {
+        "nombre": "Li Zhi",
+        "fecha_nacimiento": 1192,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1279,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Ta-hsing (actual Pekín), China",
+        "lugar_fallecimiento": "Provincia de Hopeh, China",
+        "resumen": "Li Zhi fue un matemático chino que describió métodos para resolver ecuaciones."
+    },
+    {
+        "nombre": "Juan de Sacrobosco",
+        "fecha_nacimiento": 1195,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1256,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Halifax, Yorkshire, Inglaterra",
+        "lugar_fallecimiento": "París, Francia",
+        "resumen": "Juan de Sacrobosco fue un erudito inglés que escribió un importante texto sobre astronomía y promovió los métodos aritméticos y algebraicos árabes."
+    },
+    {
+        "nombre": "San Alberto Magno",
+        "fecha_nacimiento": 1200,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1280,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Lauingen an der Donau, Suabia (actual Alemania)",
+        "lugar_fallecimiento": "Colonia, Prusia (actual Alemania)",
+        "resumen": "Alberto Magno fue un dominico alemán que escribió un comentario sobre los Elementos de Euclides. Fue canonizado en 1931 y, en 1941, nombrado patrón de los científicos naturales."
+    },
+    {
+        "nombre": "Nasir al-Din al-Tusi",
+        "fecha_nacimiento": 1201,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1274,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Tus, Jorasán (actual Irán)",
+        "lugar_fallecimiento": "Kadhimain (cerca de Bagdad, actual Irak)",
+        "resumen": "Nasir al-Tusi fue un astrónomo y matemático islámico que se unió a los mongoles que conquistaron Bagdad. Hizo importantes contribuciones a la astronomía y escribió muchos comentarios sobre textos griegos."
+    },
+    {
+        "nombre": "Qin Jiushao",
+        "fecha_nacimiento": 1202,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1261,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Puzhou (Anyue), provincia de Sichuan, China",
+        "lugar_fallecimiento": "Meizhou (actual Meixian), provincia de Guangdong, China",
+        "resumen": "Qin Jiushao fue un matemático chino que escribió un importante estudio, el Shushu Jiuzang, sobre ecuaciones, que incluye el teorema chino del resto."
+    },
+    {
+        "nombre": "Roger Bacon",
+        "fecha_nacimiento": 1214,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1292,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Ilchester, Somerset, Inglaterra",
+        "lugar_fallecimiento": "Oxford, Inglaterra",
+        "resumen": "Roger Bacon fue un matemático inglés. Su contribución matemática más importante es la aplicación de la geometría a la óptica."
+    },
+    {
+        "nombre": "Campano de Novara",
+        "fecha_nacimiento": 1220,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1296,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Novara, Italia",
+        "lugar_fallecimiento": "Viterbo, Italia",
+        "resumen": "Johannes Campanus fue un matemático italiano que publicó una edición latina de los Elementos de Euclides. También escribió sobre astronomía."
+    },
+    {
+        "nombre": "Muhyi l'din al-Maghribi",
+        "fecha_nacimiento": 1220,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1283,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "España",
+        "lugar_fallecimiento": "Maragheh, Irán",
+        "resumen": "Muhyi l'din al-Maghribi fue un astrónomo islámico nacido en España, famoso por su trabajo en trigonometría."
+    },
+    {
+        "nombre": "Jordanus Nemorarius",
+        "fecha_nacimiento": 1225,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1260,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Borgentreich (cerca de Warburg), Alemania",
+        "lugar_fallecimiento": "en el mar",
+        "resumen": "Jordanus Nemorarius fue un erudito alemán que escribió varios libros sobre aritmética, álgebra, geometría y astronomía. Fue uno de los primeros en usar letras para reemplazar números en cálculos algebraicos."
+    },
+    {
+        "nombre": "Guo Shoujing",
+        "fecha_nacimiento": 1231,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1316,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Xingtai, provincia de Hebei, China",
+        "lugar_fallecimiento": "China",
+        "resumen": "Guo Shoujing fue un astrónomo chino que trabajó en trigonometría esférica y en el calendario."
+    },
+    {
+        "nombre": "Raimundo Lulio",
+        "fecha_nacimiento": 1235,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1316,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Mallorca, España",
+        "lugar_fallecimiento": "Túnez, Túnez (probablemente)",
+        "resumen": "Ramon Llull fue un filósofo mallorquín cuyos métodos lógicos influyeron en Leibniz."
+    },
+    {
+        "nombre": "Jacob ben Machir ibn Tibbon",
+        "fecha_nacimiento": 1236,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1305,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Marsella, Francia",
+        "lugar_fallecimiento": "Montpellier, Francia",
+        "resumen": "Jacob ben Tibbon fue un médico judío francés que tradujo versiones árabes de las matemáticas griegas al hebreo."
+    },
+    {
+        "nombre": "Yang Hui",
+        "fecha_nacimiento": 1238,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1298,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Qiantang (actual Hangzhou), provincia de Zhejiang, China",
+        "lugar_fallecimiento": "China",
+        "resumen": "Yang Hui fue un matemático chino que escribió varios textos matemáticos destacados. Contenían soluciones de ecuaciones cuadráticas, así como el triángulo de Pascal y cuadrados mágicos."
+    },
+    {
+        "nombre": "Shams al-Din ibn Ashraf Al-Samarqandi",
+        "fecha_nacimiento": 1250,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1310,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Samarcanda, Uzbekistán",
+        "lugar_fallecimiento": "Desconocido",
+        "resumen": "Shams al-Din ibn Ashraf Al-Samarqandi fue un matemático islámico que escribió obras sobre teología, lógica, filosofía, matemáticas y astronomía."
+    },
+    {
+        "nombre": "al-Marrakushi ibn Al-Banna",
+        "fecha_nacimiento": 1256,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1321,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Marrakech, Marruecos",
+        "lugar_fallecimiento": "Marrakech, Marruecos",
+        "resumen": "Ibn al-Banna fue un matemático islámico que escribió un gran número de obras, incluyendo una introducción a los Elementos de Euclides, un texto de álgebra y varios trabajos sobre astronomía."
+    },
+    {
+        "nombre": "Kamal al-Din Abu'l Hasan Muhammad Al-Farisi",
+        "fecha_nacimiento": 1260,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1320,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Desconocido",
+        "lugar_fallecimiento": "Tabriz, Irán",
+        "resumen": "Al-Farisi fue un matemático islámico que hizo dos contribuciones importantes a las matemáticas, una sobre la luz y la otra sobre teoría de números."
+    },
+    {
+        "nombre": "Zhu Shijie",
+        "fecha_nacimiento": 1260,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1320,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Yan-shan, cerca de Pekín (actual Beijing), China",
+        "lugar_fallecimiento": "No conocido",
+        "resumen": "Zhu Shijie fue un matemático chino que desarrolló métodos para resolver sistemas de ecuaciones simultáneas."
+    },
+    {
+        "nombre": "Zhao Youqin",
+        "fecha_nacimiento": 1271,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1335,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Poyang, actual provincia de Jiangxi, China",
+        "lugar_fallecimiento": "Montañas Longyou, provincia de Zhejiang, China",
+        "resumen": "Zhao Youqin fue un matemático y astrónomo chino que publicó trabajos sobre la estructura del universo. Describió cómo calcular π."
+    },
+    {
+        "nombre": "Levi ben Gerson",
+        "fecha_nacimiento": 1288,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1344,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Bagnols (actual Bagnols-sur-Cèze), Provenza, Francia",
+        "lugar_fallecimiento": "Aviñón, Francia",
+        "resumen": "Levi ben Gerson fue un erudito francés que escribió sobre trigonometría, así como astronomía y filosofía."
+    },
+    {
+        "nombre": "William of Ockham",
+        "fecha_nacimiento": 1288,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1348,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Ockham (cerca de Ripley, Surrey), Inglaterra",
+        "lugar_fallecimiento": "Múnich, Baviera (actual Alemania)",
+        "resumen": "William of Ockham fue un matemático y filósofo inglés, conocido por la navaja de Ockham, una versión de la cual es: Es vano hacer con más lo que se puede hacer con menos."
+    },
+    {
+        "nombre": "Thomas Bradwardine",
+        "fecha_nacimiento": 1295,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1349,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Chichester, Inglaterra",
+        "lugar_fallecimiento": "Lambeth, Londres, Inglaterra",
+        "resumen": "Thomas Bradwardine fue un matemático y teólogo inglés que examinó las teorías de la dinámica de Aristóteles."
+    },
+    {
+        "nombre": "Albert of Saxony",
+        "fecha_nacimiento": 1316,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1390,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Rickensdorf, Helmstedt, Baja Sajonia (Alemania)",
+        "lugar_fallecimiento": "Halberstadt, Sajonia (Alemania)",
+        "resumen": "Albert of Saxony fue un matemático alemán que actuó principalmente como transmisor de las matemáticas de otros."
+    },
+    {
+        "nombre": "Shams al-Din Abu Abdallah Al-Khalili",
+        "fecha_nacimiento": 1320,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1380,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "posiblemente Damasco, Siria",
+        "lugar_fallecimiento": "posiblemente Damasco, Siria",
+        "resumen": "Al-Khalili fue un astrónomo islámico que compiló extensas tablas para uso astronómico."
+    },
+    {
+        "nombre": "Nicole Oresme",
+        "fecha_nacimiento": 1323,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1382,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Allemagne (oeste de Riez), Francia",
+        "lugar_fallecimiento": "Lisieux, Francia",
+        "resumen": "Nicole Oresme fue un matemático francés que inventó la geometría de coordenadas mucho antes que Descartes. Fue el primero en usar un exponente fraccionario y también trabajó en series infinitas."
+    },
+    {
+        "nombre": "Mahendra Suri",
+        "fecha_nacimiento": 1340,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1410,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "India occidental",
+        "lugar_fallecimiento": "India",
+        "resumen": "Mahendra Suri fue un matemático indio y seguidor del jainismo. Fue el primero en escribir un tratado en sánscrito sobre el astrolabio."
+    },
+    {
+        "nombre": "Narayana Pandit",
+        "fecha_nacimiento": 1340,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1400,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "India",
+        "lugar_fallecimiento": "India",
+        "resumen": "Narayana fue un matemático indio que escribió sobre aritmética siguiendo el trabajo de Bhaskara II."
+    },
+    {
+        "nombre": "Madhava of Sangamagrama",
+        "fecha_nacimiento": 1350,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1425,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Sangamagrama (cerca de Cochin), Kerala, India",
+        "lugar_fallecimiento": "India",
+        "resumen": "Madhava fue un matemático del sur de India. Hizo importantes avances en series infinitas, incluyendo el hallazgo de las expansiones para funciones trigonométricas."
+    },
+    {
+        "nombre": "Qadi Zada al-Rumi",
+        "fecha_nacimiento": 1364,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1436,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Bursa, Turquía",
+        "lugar_fallecimiento": "Samarcanda, Uzbekistán",
+        "resumen": "Qadi Zada fue un matemático islámico que escribió varios comentarios sobre obras de matemáticas y astronomía."
+    },
+    {
+        "nombre": "Paramesvara",
+        "fecha_nacimiento": 1370,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1460,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Alattur, Kerala, India",
+        "lugar_fallecimiento": "India",
+        "resumen": "Paramesvara fue un astrónomo y matemático indio que escribió muchos comentarios sobre trabajos anteriores, así como realizó observaciones."
+    },
+    {
+        "nombre": "Filippo Brunelleschi",
+        "fecha_nacimiento": 1377,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1446,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Florencia (actual Italia)",
+        "lugar_fallecimiento": "Florencia (actual Italia)",
+        "resumen": "Filippo Brunelleschi fue un artista y arquitecto florentino, conocido por la cúpula de la catedral de Florencia."
+    },
+    {
+        "nombre": "Ghiyath al-Din Jamshid Mas'ud al-Kashi",
+        "fecha_nacimiento": 1380,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1429,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Kashan, Irán",
+        "lugar_fallecimiento": "Samarcanda, Transoxania (actual Uzbekistán)",
+        "resumen": "Jamshid al-Kashi fue un matemático islámico que publicó importantes obras didácticas y anticipó el trabajo de Stevin sobre decimales."
+    },
+    {
+        "nombre": "Ulugh Beg",
+        "fecha_nacimiento": 1394,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1449,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Soltaniyeh, Persia (actual Irán)",
+        "lugar_fallecimiento": "Samarcanda, Imperio Timúrida",
+        "resumen": "Ulugh Beg fue el nieto del conquistador Tamerlán y fue matemático y astrónomo. Fundó un importante centro de estudio en Samarcanda con los mejores científicos de la época. Realizó importantes trabajos tempranos sobre trigonometría."
+    },
+    {
+        "nombre": "Abu Abdallah Yaish ibn Ibrahim Al-Umawi",
+        "fecha_nacimiento": 1400,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1489,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "posiblemente Andalucía (actual España)",
+        "lugar_fallecimiento": "posiblemente Damasco, Siria",
+        "resumen": "Al-Umawi fue un matemático islámico nacido en España que escribió obras sobre medición y aritmética."
+    },
+    {
+        "nombre": "Nicholas of Cusa",
+        "fecha_nacimiento": 1401,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1464,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Kues, Tréveris (actual Alemania)",
+        "lugar_fallecimiento": "Todi, Estados Pontificios (actual Italia)",
+        "resumen": "Nicolás de Cusa fue un filósofo y obispo alemán. Se interesó por la geometría y la lógica, así como por la filosofía y la astronomía."
+    },
+    {
+        "nombre": "Ala al-Din Ali ibn Muhammed Ali Qushji",
+        "fecha_nacimiento": 1403,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1474,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Samarcanda, Imperio Timúrida (actual Uzbekistán)",
+        "lugar_fallecimiento": "Constantinopla (actual Estambul, Turquía)",
+        "resumen": "Ali Qushji fue un astrónomo y matemático islámico, nacido en lo que hoy es Uzbekistán, que trabajó en observatorios de Samarcanda y Constantinopla, y cuyos resultados influyeron en Copérnico para producir su sistema heliocéntrico."
+    },
+    {
+        "nombre": "Leone Battista Alberti",
+        "fecha_nacimiento": 1404,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1472,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Génova, Imperio Francés (actual Italia)",
+        "lugar_fallecimiento": "Roma, Estados Pontificios (actual Italia)",
+        "resumen": "Leone Alberti fue un matemático italiano que escribió el primer tratado general sobre las leyes de la perspectiva y también escribió un libro sobre criptografía que contiene el primer ejemplo de una tabla de frecuencias."
+    },
+    {
+        "nombre": "Abu'l Hasan ibn Ali al Qalasadi",
+        "fecha_nacimiento": 1412,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1486,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Bastah (actual Baza, España)",
+        "lugar_fallecimiento": "Béja, Túnez",
+        "resumen": "Al-Qalasadi fue un matemático islámico español que dio los primeros pasos hacia la introducción del simbolismo algebraico utilizando letras en lugar de números."
+    },
+    {
+        "nombre": "Piero della Francesca",
+        "fecha_nacimiento": 1420,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1492,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Borgo San Sepolcro (actual Sansepolcro, Italia)",
+        "lugar_fallecimiento": "Borgo San Sepolcro (actual Sansepolcro, Italia)",
+        "resumen": "Piero della Francesca fue un artista italiano que fue pionero en el uso de la perspectiva en el arte renacentista y escribió varios tratados matemáticos."
+    },
+    {
+        "nombre": "Georg Peurbach",
+        "fecha_nacimiento": 1423,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1461,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Peuerbach, Austria",
+        "lugar_fallecimiento": "Viena, Austria",
+        "resumen": "Georg Peurbach fue un astrónomo austriaco que publicó observaciones así como un libro de texto sobre cálculo trigonométrico."
+    },
+    {
+        "nombre": "Piero Borgi",
+        "fecha_nacimiento": 1424,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1494,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Venecia, Estados Venecianos (actual Italia)",
+        "lugar_fallecimiento": "Italia",
+        "resumen": "Piero Borgi fue el autor de los libros de aritmética italiana más conocidos del siglo XV."
+    },
+    {
+        "nombre": "Johann Müller Regiomontanus",
+        "fecha_nacimiento": 1436,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1476,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Unfinden (cerca de Königsberg, Baja Franconia, actual Baviera, Alemania)",
+        "lugar_fallecimiento": "Roma (actual Italia)",
+        "resumen": "Regiomontanus, o Johann Müller, fue un erudito alemán que hizo importantes contribuciones a la trigonometría y la astronomía."
     }
 ];
