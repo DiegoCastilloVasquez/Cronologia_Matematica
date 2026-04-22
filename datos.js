@@ -1978,5 +1978,405 @@ const datos = [
         "lugar_nacimiento": "Unfinden (cerca de Königsberg, Baja Franconia, actual Baviera, Alemania)",
         "lugar_fallecimiento": "Roma (actual Italia)",
         "resumen": "Regiomontanus, o Johann Müller, fue un erudito alemán que hizo importantes contribuciones a la trigonometría y la astronomía."
+    },
+    {
+        "nombre": "Nilakantha Somayaji",
+        "fecha_nacimiento": 1444,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1501,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Trikkantiyur (cerca de Tirur), Kerala, India",
+        "lugar_fallecimiento": "India",
+        "resumen": "Nilakantha fue un matemático y astrónomo del sur de la India que escribió textos tanto sobre astronomía como sobre series infinitas."
+    },
+    {
+        "nombre": "Luca Pacioli",
+        "fecha_nacimiento": 1445,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1517,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Sansepolcro (actual Italia)",
+        "lugar_fallecimiento": "Sansepolcro (actual Italia)",
+        "resumen": "Luca Pacioli fue un matemático italiano que publicó el influyente libro Summa en 1494, que resume todas las matemáticas conocidas en ese momento."
+    },
+    {
+        "nombre": "Nicolas Chuquet",
+        "fecha_nacimiento": 1445,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1488,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "París, Francia",
+        "lugar_fallecimiento": "Lyon, Francia",
+        "resumen": "Nicolas Chuquet fue un matemático francés que escribió el primer libro de álgebra francés."
+    },
+    {
+        "nombre": "Leonardo da Vinci",
+        "fecha_nacimiento": 1452,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1519,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Vinci, cerca de Empolia (actual Italia)",
+        "lugar_fallecimiento": "Cloux, Amboise, Francia",
+        "resumen": "Leonardo da Vinci fue un artista y erudito italiano que tuvo muchos talentos además de su pintura. Trabajó en mecánica, aunque la geometría era su mayor amor. Se involucró en hidrodinámica, anatomía, mecánica, matemáticas y óptica."
+    },
+    {
+        "nombre": "Johannes Widman",
+        "fecha_nacimiento": 1462,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1498,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Eger, Bohemia (actual Cheb, República Checa)",
+        "lugar_fallecimiento": "Leipzig, Alemania",
+        "resumen": "Johannes Widman fue un matemático alemán conocido por un libro de aritmética temprano que contiene la primera aparición de los signos + y -."
+    },
+    {
+        "nombre": "Scipione del Ferro",
+        "fecha_nacimiento": 1465,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1526,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Bolonia (actual Italia)",
+        "lugar_fallecimiento": "Bolonia, Estados Pontificios (actual Italia)",
+        "resumen": "Scipione del Ferro fue un matemático italiano famoso por ser el primero en encontrar una fórmula para resolver una ecuación cúbica."
+    },
+    {
+        "nombre": "Johann Werner",
+        "fecha_nacimiento": 1468,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1522,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Núremberg, Alemania",
+        "lugar_fallecimiento": "Núremberg, Alemania",
+        "resumen": "Johann Werner fue un matemático alemán cuyo trabajo principal fue sobre astronomía, matemáticas y geografía."
+    },
+    {
+        "nombre": "John Maior",
+        "fecha_nacimiento": 1469,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1550,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Gleghornie (cerca de Haddington), Escocia",
+        "lugar_fallecimiento": "St Andrews, Fife, Escocia",
+        "resumen": "John Maior fue un matemático escocés que trabajó en París y St Andrews, donde enseñó lógica y teología."
+    },
+    {
+        "nombre": "Estienne de La Roche",
+        "fecha_nacimiento": 1470,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1530,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Lyon, Francia",
+        "lugar_fallecimiento": "Francia",
+        "resumen": "Estienne de la Roche fue un matemático francés que publicó un libro de aritmética con buena notación para potencias y raíces."
+    },
+    {
+        "nombre": "Albrecht Dürer",
+        "fecha_nacimiento": 1471,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1528,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Ciudad Imperial Libre de Núremberg (actual Alemania)",
+        "lugar_fallecimiento": "Ciudad Imperial Libre de Núremberg (actual Alemania)",
+        "resumen": "Dürer fue un artista alemán conocido por su trabajo como grabador. Los fundamentos de la geometría descriptiva se establecen en el tratado de Dürer sobre proporciones humanas publicado en Núremberg después de su muerte en 1528."
+    },
+    {
+        "nombre": "Charles de Bouvelles",
+        "fecha_nacimiento": 1471,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1553,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Soyecourt, cerca de Amiens, Picardía, Francia",
+        "lugar_fallecimiento": "Noyon, Picardía, Francia",
+        "resumen": "Charles de Bouvelles fue un sacerdote francés que escribió obras sobre geometría y filosofía."
+    },
+    {
+        "nombre": "Nicolaus Copernicus",
+        "fecha_nacimiento": 1473,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1543,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Toruń, Polonia",
+        "lugar_fallecimiento": "Frauenburg (actualmente Frombork), Polonia",
+        "resumen": "Copérnico fue un astrónomo y matemático polaco cuya teoría de que la Tierra se movía alrededor del Sol alteró profundamente la visión del universo de los trabajadores posteriores, pero fue rechazada por la iglesia católica."
+    },
+    {
+        "nombre": "Cuthbert Tunstall",
+        "fecha_nacimiento": 1474,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1559,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Hackforth, Yorkshire, Inglaterra",
+        "lugar_fallecimiento": "Lambeth, Londres, Inglaterra",
+        "resumen": "Cuthbert Tunstall escribió la primera obra impresa publicada en Inglaterra dedicada exclusivamente a las matemáticas."
+    },
+    {
+        "nombre": "Juan de Ortega",
+        "fecha_nacimiento": 1480,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1568,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Palencia (actualmente España)",
+        "lugar_fallecimiento": "",
+        "resumen": "Juan de Ortega fue un matemático español que ideó un método original para extraer raíces cuadradas."
+    },
+    {
+        "nombre": "Roger Collingwood",
+        "fecha_nacimiento": 1480,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1520,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Diocese de Durham, Inglaterra",
+        "lugar_fallecimiento": "",
+        "resumen": "Roger Collingwood fue uno de los primeros conferenciantes profesionales de matemáticas y, junto con su servicio en la Iglesia, fue responsable del texto matemático Arithmetica experimentalis."
+    },
+    {
+        "nombre": "Gaspar Lax",
+        "fecha_nacimiento": 1487,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1560,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Sariñena, Aragón (actualmente España)",
+        "lugar_fallecimiento": "Zaragoza, España",
+        "resumen": "Gaspar Lax fue un erudito español que publicó varios libros de matemáticas basados en el trabajo de matemáticos anteriores."
+    },
+    {
+        "nombre": "Michael Stifel",
+        "fecha_nacimiento": 1487,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1567,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Esslingen, Alemania",
+        "lugar_fallecimiento": "Jena, Alemania",
+        "resumen": "Michael Stifel fue un matemático alemán que inventó los logaritmos independientemente de Napier utilizando un enfoque totalmente diferente."
+    },
+    {
+        "nombre": "Adam Ries",
+        "fecha_nacimiento": 1492,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1559,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Staffelstein (cerca de Bamberg), Alta Franconia (actualmente Alemania)",
+        "lugar_fallecimiento": "Annaberg, Sajonia (actualmente Annaberg-Buchholz, Alemania)",
+        "resumen": "Adam Ries fue un matemático alemán que publicó uno de los primeros libros de aritmética ampliamente disponibles."
+    },
+    {
+        "nombre": "Francesco Maurolico",
+        "fecha_nacimiento": 1494,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1575,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Messina, Reino de Sicilia (actualmente Italia)",
+        "lugar_fallecimiento": "Messina, Reino de Sicilia (actualmente Italia)",
+        "resumen": "Francesco Maurolico fue un benedictino italiano que escribió importantes libros sobre matemáticas griegas. También trabajó en geometría, teoría de números, óptica, cónicas y mecánica."
+    },
+    {
+        "nombre": "Oronce Fine",
+        "fecha_nacimiento": 1494,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1555,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Brianzón, Francia",
+        "lugar_fallecimiento": "París, Francia",
+        "resumen": "Oronce Fine fue un matemático francés que publicó una importante obra sobre matemáticas y astronomía."
+    },
+    {
+        "nombre": "Petrus Apianus",
+        "fecha_nacimiento": 1495,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1552,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Leisnig, Sajonia (actualmente Alemania)",
+        "lugar_fallecimiento": "Ingolstadt, Baviera, Alemania",
+        "resumen": "Petrus Apianus fue un matemático alemán que publicó importantes obras populares sobre astronomía y geografía."
+    },
+    {
+        "nombre": "Christoff Rudolff",
+        "fecha_nacimiento": 1499,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1543,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Jauer, Silesia (ahora Jawor, Polonia)",
+        "lugar_fallecimiento": "Viena, Austria",
+        "resumen": "Christoff Rudolff fue un matemático alemán cuyo libro Coss es el primer libro de álgebra en alemán."
+    },
+    {
+        "nombre": "Jyesthadeva",
+        "fecha_nacimiento": 1500,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1575,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Kerala, India",
+        "lugar_fallecimiento": "Kerala, India",
+        "resumen": "Jyesthadeva fue un matemático del sur de la India que escribió una importante obra sobre matemáticas y astronomía que resume el trabajo de la escuela de Kerala."
+    },
+    {
+        "nombre": "Niccolò Tartaglia",
+        "fecha_nacimiento": 1500,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1557,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Brescia, República de Venecia (actualmente Italia)",
+        "lugar_fallecimiento": "Venecia, República de Venecia (actualmente Italia)",
+        "resumen": "Tartaglia fue un matemático italiano famoso por su solución algebraica de las ecuaciones cúbicas, que finalmente se publicó en el Ars Magna de Cardano."
+    },
+    {
+        "nombre": "Girolamo Cardano",
+        "fecha_nacimiento": 1501,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1576,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Pavía, Ducado de Milán (actualmente Italia)",
+        "lugar_fallecimiento": "Roma (actualmente Italia)",
+        "resumen": "Girolamo Cardano fue un médico y matemático italiano famoso por su obra Ars Magna, que fue el primer tratado latino dedicado exclusivamente al álgebra. En él presentó los métodos de solución de las ecuaciones cúbicas y cuárticas que había aprendido de Tartaglia."
+    },
+    {
+        "nombre": "Pedro Nunes Salaciense",
+        "fecha_nacimiento": 1502,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1578,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Alcácer do Sal, Portugal",
+        "lugar_fallecimiento": "Coímbra, Portugal",
+        "resumen": "Pedro Nunes fue un erudito portugués que trabajó en geometría, trigonometría esférica, álgebra, así como en geografía, física y cosmología."
+    },
+    {
+        "nombre": "Frederico Commandino",
+        "fecha_nacimiento": 1506,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1575,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Urbino (actualmente Italia)",
+        "lugar_fallecimiento": "Urbino (actualmente Italia)",
+        "resumen": "Frederico Commandino fue un matemático italiano que publicó importantes traducciones de obras de los matemáticos de la Antigua Grecia."
+    },
+    {
+        "nombre": "Regnier Gemma Frisius",
+        "fecha_nacimiento": 1508,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1555,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Dokkum, Frisia, Países Bajos",
+        "lugar_fallecimiento": "Lovaina, Brabante (actualmente Bélgica)",
+        "resumen": "Regnier Gemma Frisius fue un matemático neerlandés que aplicó su experiencia matemática a la geografía, la astronomía y la cartografía. Se convirtió en el principal matemático teórico de los Países Bajos."
+    },
+    {
+        "nombre": "Robert Recorde",
+        "fecha_nacimiento": 1510,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1558,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Tenby, Gales",
+        "lugar_fallecimiento": "Londres, Inglaterra",
+        "resumen": "Recorde fue un médico y matemático galés que inventó el símbolo 'igual' '=' que aparece en su libro The Whetstone of Witte (1557)."
+    },
+    {
+        "nombre": "Erasmus Reinhold",
+        "fecha_nacimiento": 1511,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1553,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Saalfeld, Turingia (actualmente Alemania)",
+        "lugar_fallecimiento": "Saalfeld, Turingia, Alemania",
+        "resumen": "Erasmus Reinhold fue un astrónomo y matemático alemán que catalogó un gran número de estrellas y publicó importantes tablas astronómicas."
+    },
+    {
+        "nombre": "Gerardus Mercator",
+        "fecha_nacimiento": 1512,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1594,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Rupelmonde, Países Bajos Borgoñones (actual Bélgica)",
+        "lugar_fallecimiento": "Duisburg, Ducado de Cléveris (actual Alemania)",
+        "resumen": "Gerardus Mercator fue un cartógrafo y geógrafo flamenco conocido por la proyección cartográfica que lleva su nombre."
+    },
+    {
+        "nombre": "Georg Joachim von Lauchen Rheticus",
+        "fecha_nacimiento": 1514,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1574,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Feldkirch, Austria",
+        "lugar_fallecimiento": "Kassa, Hungría (actual Košice)",
+        "resumen": "Georg Joachim Rheticus fue un matemático y astrónomo austriaco que publicó las secciones trigonométricas del De Revolutionibus de Copérnico."
+    },
+    {
+        "nombre": "Peter Ramus",
+        "fecha_nacimiento": 1515,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1572,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Cuts (cerca de Noyon), Vermandois, Francia",
+        "lugar_fallecimiento": "París, Francia",
+        "resumen": "Peter Ramus fue un matemático francés que escribió una serie completa de libros de texto sobre lógica y retórica, gramática, matemáticas, astronomía y óptica."
+    },
+    {
+        "nombre": "Lodovico Ferrari",
+        "fecha_nacimiento": 1522,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1565,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Bolonia, Estados Pontificios (actual Italia)",
+        "lugar_fallecimiento": "Bolonia, Estados Pontificios (actual Italia)",
+        "resumen": "Ferrari fue un erudito italiano que comenzó como secretario de Cardan y luego ideó la solución de la ecuación cuártica."
+    },
+    {
+        "nombre": "Rafael Bombelli",
+        "fecha_nacimiento": 1526,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1572,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Bolonia, Estados Pontificios (actual Italia)",
+        "lugar_fallecimiento": "Roma, Estados Pontificios (actual Italia)",
+        "resumen": "Rafael Bombelli fue un matemático italiano que escribió un influyente texto de álgebra e hizo uso libre de números negativos y complejos."
+    },
+    {
+        "nombre": "John Dee",
+        "fecha_nacimiento": 1527,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1609,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Tower Ward, Londres, Inglaterra",
+        "lugar_fallecimiento": "Mortlake, Londres, Inglaterra",
+        "resumen": "John Dee fue un erudito inglés que escribió sobre trigonometría, reforma del calendario, navegación, geografía y astrología. Se convirtió en astrólogo de la reina María pero fue encarcelado por ser mago."
+    },
+    {
+        "nombre": "Giovanni Battista Benedetti",
+        "fecha_nacimiento": 1530,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1590,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Venecia, Estados Venecianos (actual Italia)",
+        "lugar_fallecimiento": "Turín, Ducado de Saboya (actual Italia)",
+        "resumen": "Giovanni Benedetti fue un matemático italiano que anticipó parte del trabajo de Galileo sobre la caída libre."
+    },
+    {
+        "nombre": "Cheng Dawei",
+        "fecha_nacimiento": 1533,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1606,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "China",
+        "lugar_fallecimiento": "China",
+        "resumen": "Cheng Dawei fue un matemático chino que publicó el Suanfa tong zong (Fuente general de métodos computacionales)."
+    },
+    {
+        "nombre": "Giambattista Della Porta",
+        "fecha_nacimiento": 1535,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1615,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Vico Equense, cerca de Nápoles, Reino de Nápoles (actual Italia)",
+        "lugar_fallecimiento": "Nápoles, Reino de Nápoles (actual Italia)",
+        "resumen": "Giambattista della Porta fue un erudito italiano que trabajó en criptografía y también en óptica. Afirmó ser el inventor del telescopio aunque no parece haber construido uno antes de Galileo."
+    },
+    {
+        "nombre": "Egnatio Pellegrino Rainaldi Danti",
+        "fecha_nacimiento": 1536,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1586,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Perugia (actual Italia)",
+        "lugar_fallecimiento": "Alatri (actual Italia)",
+        "resumen": "Egnatio Danti fue un dominico italiano que hizo contribuciones a la arquitectura, geografía y astronomía."
     }
 ];
