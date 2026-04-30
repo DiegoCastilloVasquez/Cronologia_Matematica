@@ -2678,5 +2678,205 @@
         "lugar_nacimiento": "Shanghái, China",
         "lugar_fallecimiento": "China",
         "resumen": "Xu Guang-qi fue un matemático chino que hizo accesibles las matemáticas occidentales traduciendo obras al chino."
+    },
+    {
+        "nombre": "Galileo Galilei",
+        "fecha_nacimiento": 1564,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1642,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Pisa (actual Italia)",
+        "lugar_fallecimiento": "Arcetri cerca de Florencia (actual Italia)",
+        "resumen": "Galileo Galilei fue un científico italiano que formuló la ley básica de los cuerpos en caída, la cual verificó mediante mediciones cuidadosas. Construyó un telescopio con el que estudió los cráteres lunares y descubrió cuatro lunas que orbitan alrededor de Júpiter, además de defender la causa copernicana."
+    },
+    {
+        "nombre": "Giuseppe Biancani",
+        "fecha_nacimiento": 1566,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1624,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Bolonia, Estados Pontificios (actual Italia)",
+        "lugar_fallecimiento": "Parma, Ducado de Parma y Piacenza (actual Italia)",
+        "resumen": "Giuseppe Biancani fue un astrónomo y matemático jesuita italiano que realizó observaciones de la Luna y los planetas con el telescopio recién inventado."
+    },
+    {
+        "nombre": "Marino Ghetaldi",
+        "fecha_nacimiento": 1568,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1626,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Ragusa, Dalmacia (actual Dubrovnik, Croacia)",
+        "lugar_fallecimiento": "Ragusa, Dalmacia (actual Dubrovnik, Croacia)",
+        "resumen": "Marino Ghetaldi fue un matemático croata que publicó trabajos con aplicaciones tempranas del álgebra a la geometría."
+    },
+    {
+        "nombre": "Johannes Kepler",
+        "fecha_nacimiento": 1571,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1630,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Weil der Stadt, Württemberg, Sacro Imperio Romano Germánico (actual Alemania)",
+        "lugar_fallecimiento": "Ratisbona (actual Alemania)",
+        "resumen": "Johannes Kepler fue un matemático y astrónomo alemán que descubrió que la Tierra y los planetas viajan alrededor del Sol en órbitas elípticas. Formuló tres leyes fundamentales del movimiento planetario. También realizó importantes trabajos en óptica y geometría."
+    },
+    {
+        "nombre": "Christoph Scheiner",
+        "fecha_nacimiento": 1573,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1650,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Markt Wald, cerca de Mindelheim en Suabia (actual Alemania)",
+        "lugar_fallecimiento": "Neisse, Silesia",
+        "resumen": "Christoph Scheiner fue un sacerdote jesuita, físico y astrónomo alemán."
+    },
+    {
+        "nombre": "Simon Mayr",
+        "fecha_nacimiento": 1573,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1624,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Gunzenhausen, Baviera, Alemania",
+        "lugar_fallecimiento": "Ansbach, Baviera, Alemania",
+        "resumen": "Simon Mayr fue un astrónomo alemán que pudo haber observado las lunas de Júpiter antes que Galileo."
+    },
+    {
+        "nombre": "William Oughtred",
+        "fecha_nacimiento": 1574,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1660,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Eton, Buckinghamshire, Inglaterra",
+        "lugar_fallecimiento": "Albury, Surrey, Inglaterra",
+        "resumen": "William Oughtred fue un matemático inglés conocido por su invención de una forma temprana de la regla de cálculo. Inventó muchos símbolos nuevos, incluidos X para la multiplicación y :: para la proporción."
+    },
+    {
+        "nombre": "Paul Guldin",
+        "fecha_nacimiento": 1577,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1643,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "St Gall (actual San Galo, Suiza)",
+        "lugar_fallecimiento": "Graz, Austria",
+        "resumen": "Paul Guldin fue un matemático suizo que escribió sobre volúmenes y centros de gravedad."
+    },
+    {
+        "nombre": "Benedetto Antonio Castelli",
+        "fecha_nacimiento": 1578,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1643,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Brescia (actual Italia)",
+        "lugar_fallecimiento": "Roma (actual Italia)",
+        "resumen": "Benedetto Castelli fue un benedictino italiano que fue alumno de Galileo."
+    },
+    {
+        "nombre": "Johann Faulhaber",
+        "fecha_nacimiento": 1580,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1635,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Ulm, Alemania",
+        "lugar_fallecimiento": "Ulm, Alemania",
+        "resumen": "Johann Faulhaber fue un cossista o algebraista temprano alemán. Es importante por su trabajo explicando los logaritmos recién inventados."
+    },
+    {
+        "nombre": "Pierre Hérigone",
+        "fecha_nacimiento": 1580,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1643,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Francia",
+        "lugar_fallecimiento": "París, Francia",
+        "resumen": "Pierre Hérigone fue un matemático francés que escribió un compendio de matemáticas elementales escrito en francés y latín."
+    },
+    {
+        "nombre": "Willebrord van Royen Snell",
+        "fecha_nacimiento": 1580,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1626,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Leiden, Países Bajos",
+        "lugar_fallecimiento": "Leiden, Países Bajos",
+        "resumen": "Willebrord Snell fue un matemático neerlandés conocido por la ley de refracción, base de la óptica geométrica moderna; pero esto solo se conoció después de su muerte cuando Huygens la publicó."
+    },
+    {
+        "nombre": "Claude Gaspar Bachet de Méziriac",
+        "fecha_nacimiento": 1581,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1638,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Bourg-en-Bresse, Francia",
+        "lugar_fallecimiento": "Bourg-en-Bresse, Francia",
+        "resumen": "Claude Bachet fue un matemático francés que escribió libros sobre acertijos matemáticos que formaron la base de casi todos los libros posteriores sobre recreaciones matemáticas."
+    },
+    {
+        "nombre": "Edmund Gunter",
+        "fecha_nacimiento": 1581,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1626,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Hertfordshire, Inglaterra",
+        "lugar_fallecimiento": "Londres, Inglaterra",
+        "resumen": "Edmund Gunter fue un clérigo inglés que publicó tablas trigonométricas y fue importante en el desarrollo de la regla de cálculo."
+    },
+    {
+        "nombre": "Jean-Baptiste Morin",
+        "fecha_nacimiento": 1583,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1656,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Villefranche, Beaujolais, Francia",
+        "lugar_fallecimiento": "París, Francia",
+        "resumen": "Jean-Baptiste Morin fue un astrólogo y astrónomo francés que intentó resolver el problema de la longitud mediante observaciones lunares."
+    },
+    {
+        "nombre": "Orazio Grassi",
+        "fecha_nacimiento": 1583,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1654,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Savona, Liguria, República de Génova (actual Italia)",
+        "lugar_fallecimiento": "Roma, Estados Pontificios (actual Italia)",
+        "resumen": "Orazio Grassi fue un matemático italiano, sacerdote jesuita y arquitecto que se involucró en una discusión con Galileo sobre la naturaleza de los cometas. Enseñó matemáticas en el Collegio Romano y aún se conservan las notas de sus clases de 1623."
+    },
+    {
+        "nombre": "Gregorius Saint-Vincent",
+        "fecha_nacimiento": 1584,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1667,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Brujas, Países Bajos Españoles (actual Bélgica)",
+        "lugar_fallecimiento": "Gante, Países Bajos Españoles (actual Bélgica)",
+        "resumen": "Gregorio de San Vicente fue un jesuita flamenco que escribió un libro que abarcaba muchos aspectos de las matemáticas contemporáneas."
+    },
+    {
+        "nombre": "Pierre Vernier",
+        "fecha_nacimiento": 1584,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1638,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Ornans, Franco Condado, Habsburgos Españoles (actual Francia)",
+        "lugar_fallecimiento": "Ornans, Franco Condado, Habsburgos Españoles (actual Francia)",
+        "resumen": "Pierre Vernier fue un ingeniero francés conocido por inventar la escala de medición Vernier (nonio)."
+    },
+    {
+        "nombre": "Claude Mydorge",
+        "fecha_nacimiento": 1585,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1647,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "París, Francia",
+        "lugar_fallecimiento": "París, Francia",
+        "resumen": "Claude Mydorge fue un geómetra francés que publicó libros sobre óptica y secciones cónicas."
+    },
+    {
+        "nombre": "Peter Turner",
+        "fecha_nacimiento": 1586,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1652,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Londres, Inglaterra",
+        "lugar_fallecimiento": "Southwark, Londres, Inglaterra",
+        "resumen": "Peter Turner fue un erudito inglés que ocupó dos cátedras de matemáticas, pero no publicó ninguna obra matemática."
     }
 ]
