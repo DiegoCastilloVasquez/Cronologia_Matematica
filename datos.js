@@ -2378,5 +2378,305 @@ const datos = [
         "lugar_nacimiento": "Perugia (actual Italia)",
         "lugar_fallecimiento": "Alatri (actual Italia)",
         "resumen": "Egnatio Danti fue un dominico italiano que hizo contribuciones a la arquitectura, geografía y astronomía."
+    },
+    {
+        "nombre": "Franciscus Barocius",
+        "fecha_nacimiento": 1537,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1604,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Candia (actual Heraclión), Creta",
+        "lugar_fallecimiento": "Venecia (actual Italia)",
+        "resumen": "Francesco Barozzi o Barocius fue un cretense importante por traducir textos matemáticos griegos."
+    },
+    {
+        "nombre": "Christopher Clavius",
+        "fecha_nacimiento": 1538,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1612,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Bamberg (actual Alemania)",
+        "lugar_fallecimiento": "Roma (actual Italia)",
+        "resumen": "Christopher Clavius fue un astrónomo jesuita alemán que ayudó al Papa Gregorio XIII a introducir el calendario gregoriano."
+    },
+    {
+        "nombre": "François Viète",
+        "fecha_nacimiento": 1540,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1603,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Fontenay-le-Comte, Poitou (actual Vendée), Francia",
+        "lugar_fallecimiento": "París, Francia",
+        "resumen": "François Viète fue un matemático aficionado y astrónomo francés que introdujo la primera notación algebraica sistemática en su libro In artem analyticam isagoge. También participó en el descifrado de códigos."
+    },
+    {
+        "nombre": "Ludolph Van Ceulen",
+        "fecha_nacimiento": 1540,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1610,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Hildesheim, Alemania",
+        "lugar_fallecimiento": "Leiden, Países Bajos",
+        "resumen": "Ludolph Van Ceulen fue un matemático alemán famoso por su cálculo de π hasta 35 decimales. En Alemania, π solía llamarse el número ludolfino."
+    },
+    {
+        "nombre": "Thomas Allen",
+        "fecha_nacimiento": 1540,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1632,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Uttoxeter, Staffordshire, Inglaterra",
+        "lugar_fallecimiento": "Cambridge, Inglaterra",
+        "resumen": "Thomas Allen fue un matemático y anticuario inglés importante por su gran colección de manuscritos matemáticos y otros."
+    },
+    {
+        "nombre": "Guidobaldo Marchese del Monte",
+        "fecha_nacimiento": 1545,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1607,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Pesaro (actual Italia)",
+        "lugar_fallecimiento": "Montebaroccio (actual Italia)",
+        "resumen": "Guidobaldo del Monte fue un matemático italiano que escribió sobre estática, perspectiva y astronomía."
+    },
+    {
+        "nombre": "Paul Wittich",
+        "fecha_nacimiento": 1546,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1586,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Breslau, Imperio de los Habsburgo (actual Wrocław, Polonia)",
+        "lugar_fallecimiento": "Viena, Austria",
+        "resumen": "Paul Wittich fue un matemático y astrónomo polaco que anticipó la teoría planetaria de Tycho Brahe. Puede haber influido en Napier."
+    },
+    {
+        "nombre": "Thomas Digges",
+        "fecha_nacimiento": 1546,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1595,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Wootton, Kent, Inglaterra",
+        "lugar_fallecimiento": "Londres, Inglaterra",
+        "resumen": "Thomas Digges fue un matemático inglés que escribió sobre sólidos platónicos y arquimedianos. Se convirtió en el líder de los partidarios ingleses de Copérnico."
+    },
+    {
+        "nombre": "Tycho Brahe",
+        "fecha_nacimiento": 1546,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1601,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Knutstorp, Skåne, Dinamarca (actual Svalöv, Suecia)",
+        "lugar_fallecimiento": "Praga, Bohemia (actual República Checa)",
+        "resumen": "Tycho Brahe fue un astrónomo danés conocido principalmente por las observaciones astronómicas que llevaron a Kepler a sus teorías del sistema solar."
+    },
+    {
+        "nombre": "Baha' ad-Din al-Amili",
+        "fecha_nacimiento": 1547,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": 1621,
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Baalbek, actual Líbano",
+        "lugar_fallecimiento": "Isfahán, Irán",
+        "resumen": "Al Amili fue un matemático nacido en Líbano que escribió obras influyentes sobre aritmética, astronomía y gramática."
+    },
+    {
+        "nombre": "Giordano Bruno",
+        "fecha_nacimiento": 1548,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": "17 de febrero de 1600",
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Nola, cerca de Nápoles, Reino de Nápoles (actual Italia)",
+        "lugar_fallecimiento": "Roma, Estados Pontificios (actual Italia)",
+        "resumen": "Giordano Bruno fue un filósofo italiano de la ciencia que finalmente fue quemado en Roma como hereje."
+    },
+    {
+        "nombre": "Simon Stevin",
+        "fecha_nacimiento": 1548,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": "febrero de 1620",
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Brujas, Países Bajos Borgoñones (actual Bélgica)",
+        "lugar_fallecimiento": "La Haya, República Holandesa (actual Países Bajos)",
+        "resumen": "Simon Stevin fue un matemático flamenco que presentó el primer relato elemental y completo de las fracciones decimales e introdujo su uso en matemáticas."
+    },
+    {
+        "nombre": "Henry Savile",
+        "fecha_nacimiento": "30 de noviembre de 1549",
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": "19 de febrero de 1622",
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Bradley (cerca de Halifax), Yorkshire, Inglaterra",
+        "lugar_fallecimiento": "Eton, Berkshire, Inglaterra",
+        "resumen": "Henry Savile fue un matemático inglés que fundó las cátedras de geometría y astronomía en Oxford."
+    },
+    {
+        "nombre": "John Napier",
+        "fecha_nacimiento": 1550,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": "4 de abril de 1617",
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Castillo de Merchiston, Edimburgo, Escocia",
+        "lugar_fallecimiento": "Edimburgo, Escocia",
+        "resumen": "John Napier fue un erudito escocés conocido por su invención de los logaritmos, pero otras contribuciones matemáticas incluyen una nemotecnia para fórmulas usadas en la resolución de triángulos esféricos y dos fórmulas conocidas como las analogías de Napier."
+    },
+    {
+        "nombre": "Michael Mästlin",
+        "fecha_nacimiento": "30 de septiembre de 1550",
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": "30 de octubre de 1631",
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Göppingen, Baden-Wurtemberg, Alemania",
+        "lugar_fallecimiento": "Tübingen, Baden-Wurtemberg, Alemania",
+        "resumen": "Michael Mästlin fue un astrónomo alemán que fue maestro de Kepler y que divulgó el sistema copernicano."
+    },
+    {
+        "nombre": "Jost Bürgi",
+        "fecha_nacimiento": "28 de febrero de 1552",
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": "31 de enero de 1632",
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Lichtensteig, San Galeno, Suiza",
+        "lugar_fallecimiento": "Kassel, Hesse-Kassel (actual Alemania)",
+        "resumen": "Jost Bürgi fue un matemático suizo que descubrió los logaritmos independientemente del matemático escocés Napier."
+    },
+    {
+        "nombre": "Luca Valerio",
+        "fecha_nacimiento": 1552,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": "17 de enero de 1618",
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Nápoles, Reino de Nápoles (actual Italia)",
+        "lugar_fallecimiento": "Roma, Estados Pontificios (actual Italia)",
+        "resumen": "Luca Valerio fue un matemático italiano que aplicó los métodos de Arquímedes para encontrar volúmenes y centros de gravedad de cuerpos sólidos. Se carteó con Galileo."
+    },
+    {
+        "nombre": "Matteo Ricci",
+        "fecha_nacimiento": "6 de octubre de 1552",
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": "11 de mayo de 1610",
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Macerata, Estados Pontificios (actual Italia)",
+        "lugar_fallecimiento": "Pekín, China",
+        "resumen": "Matteo Ricci fue un jesuita italiano que fue a China como misionero e introdujo a los chinos en las matemáticas occidentales."
+    },
+    {
+        "nombre": "Pietro Antonio Cataldi",
+        "fecha_nacimiento": "15 de abril de 1552",
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": "11 de febrero de 1626",
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Bolonia, Estados Pontificios (actual Italia)",
+        "lugar_fallecimiento": "Bolonia, Estados Pontificios (actual Italia)",
+        "resumen": "Pietro Cataldi fue un matemático italiano que escribió alrededor de 30 libros sobre matemáticas, y algunos sobre otros temas."
+    },
+    {
+        "nombre": "João Delgado",
+        "fecha_nacimiento": 1553,
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": "30 de septiembre de 1612",
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Lagos, Portugal",
+        "lugar_fallecimiento": "Coímbra, Portugal",
+        "resumen": "João Delgado fue un matemático, sacerdote y arquitecto portugués. Hizo importantes contribuciones al debate sobre el lugar de las matemáticas en un plan de estudios."
+    },
+    {
+        "nombre": "Giovanni Antonio Magini",
+        "fecha_nacimiento": "13 de junio de 1555",
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": "11 de febrero de 1617",
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Padua, Estados Venecianos (actual Italia)",
+        "lugar_fallecimiento": "Bolonia, Estados Pontificios (actual Italia)",
+        "resumen": "Giovanni Magini fue un científico italiano que trabajó en astronomía y tenía una versión de un sistema solar geocéntrico."
+    },
+    {
+        "nombre": "João Baptista Lavanha",
+        "fecha_nacimiento": "1555",
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": "31 de marzo de 1624",
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Lisboa, Portugal",
+        "lugar_fallecimiento": "Madrid, España",
+        "resumen": "Joao Baptista Lavanha fue un ingeniero portugués que escribió sobre matemáticas y navegación."
+    },
+    {
+        "nombre": "Thomas Harriot",
+        "fecha_nacimiento": "1560",
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": "2 de julio de 1621",
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Oxford, Inglaterra",
+        "lugar_fallecimiento": "Londres, Inglaterra",
+        "resumen": "Thomas Harriot fue un matemático inglés que realizó un trabajo sobresaliente en la resolución de ecuaciones, reconociendo raíces negativas y complejas de una manera que hace que sus soluciones se parezcan casi a una solución actual."
+    },
+    {
+        "nombre": "Adriaan van Roomen",
+        "fecha_nacimiento": "29 de septiembre de 1561",
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": "4 de mayo de 1615",
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Leuven, Países Bajos Españoles (actual Bélgica)",
+        "lugar_fallecimiento": "Maguncia, Alemania",
+        "resumen": "Adriaan van Roomen o Adrianus Romanus fue un matemático flamenco que calculó π con 16 decimales usando el método de Arquímedes."
+    },
+    {
+        "nombre": "Bartholomeo Pitiscus",
+        "fecha_nacimiento": "24 de agosto de 1561",
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": "2 de julio de 1613",
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Grünberg, Bohemia (actual Zielona Góra, Polonia)",
+        "lugar_fallecimiento": "Heidelberg, Palatinado Electoral (actual Alemania)",
+        "resumen": "Bartholomeo Pitiscus fue un teólogo polaco que acuñó por primera vez la palabra Trigonometría."
+    },
+    {
+        "nombre": "Duncan Liddel",
+        "fecha_nacimiento": "1561",
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": "17 de diciembre de 1613",
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Aberdeen, Escocia",
+        "lugar_fallecimiento": "Aberdeen, Escocia",
+        "resumen": "Duncan Liddel fue un matemático, médico y astrónomo escocés que dio conferencias sobre matemáticas y astronomía en el continente. Hizo varias donaciones a Marischal College en Aberdeen."
+    },
+    {
+        "nombre": "Henry Briggs",
+        "fecha_nacimiento": "febrero de 1561",
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": "26 de enero de 1630",
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Warleywood, Yorkshire, Inglaterra",
+        "lugar_fallecimiento": "Oxford, Inglaterra",
+        "resumen": "Henry Briggs fue un matemático inglés que publicó tablas de logaritmos de Napier y fue el hombre más responsable de la aceptación de los logaritmos por parte de los científicos."
+    },
+    {
+        "nombre": "Johan Philip van Lansberge",
+        "fecha_nacimiento": "25 de agosto de 1561",
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": "8 de diciembre de 1632",
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Gante, Países Bajos Españoles (actual Bélgica)",
+        "lugar_fallecimiento": "Middelburg, Países Bajos",
+        "resumen": "Philippe van Lansberge fue un clérigo flamenco que escribió sobre matemáticas y astronomía. Calculó π con 28 decimales mediante un nuevo método."
+    },
+    {
+        "nombre": "Thomas Fincke",
+        "fecha_nacimiento": "6 de enero de 1561",
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": "24 de abril de 1656",
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Flensburg, Schleswig (actual Alemania)",
+        "lugar_fallecimiento": "Copenhague, Dinamarca",
+        "resumen": "Thomas Fincke fue un médico danés que escribió un libro de texto sobre geometría."
+    },
+    {
+        "nombre": "Xu Guangqi",
+        "fecha_nacimiento": "24 de abril de 1562",
+        "era_nacimiento": "d. C.",
+        "fecha_fallecimiento": "8 de noviembre de 1633",
+        "era_fallecimiento": "d. C.",
+        "lugar_nacimiento": "Shanghái, China",
+        "lugar_fallecimiento": "China",
+        "resumen": "Xu Guang-qi fue un matemático chino que hizo accesibles las matemáticas occidentales traduciendo obras al chino."
     }
 ];
